@@ -1,0 +1,22 @@
+---
+title: "A fragment-based model and annotation environment for discontinuous and overlapping terms"
+date: "2026-08-01"
+description-meta: "Terminology and entity annotation tasks in digital-library and corpus-oriented workflows often involve expressions that are discontinuous, overlapping, or partially shared. While several existing annotation environments support span-based and relation-based annotation, discontinuous structures are frequently represented indirectly through workaround mechanisms, such as linking independent spans via auxiliary relations. This may increase annotation complexity and reduce the transparency of the resulting annotation objects. This paper introduces Annotaterm, a lightweight web-based annotation environment designed to support the direct annotation of contiguous, discontinuous, and overlapping terms through a fragment-based interaction model. This model supports simple, composite, and overlapping annotations in a uniform and inspectable way. A preliminary user evaluation with 14 participants suggests that the tool is perceived as suitable for terminology-oriented annotation tasks, particularly for handling overlapping and discontinuous expressions, while also identifying areas for future refinement. The proposed approach contributes both a conceptual model and a practical annotation environment for digital-library and terminology-oriented workflows requiring transparent handling of complex textual structures."
+categories: ["Journal Article"]
+pub-authors: "<strong>Di Nunzio, G. M.</strong> & Vezzani, F."
+pub-venue: "International Journal on Digital Libraries"
+pub-details: "vol. 27, no. 3, pp. 11"
+pub-doi: "10.1007/s00799-026-00447-x"
+pub-url: "https://doi.org/10.1007/s00799-026-00447-x"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors"><strong>Di Nunzio, G. M.</strong> & Vezzani, F.</p>
+
+<p class="nw-pub-venue"><em>International Journal on Digital Libraries</em>, vol. 27, no. 3, pp. 11</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [DOI](https://doi.org/10.1007/s00799-026-00447-x){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}
+
+## Abstract
+
+Terminology and entity annotation tasks in digital-library and corpus-oriented workflows often involve expressions that are discontinuous, overlapping, or partially shared. While several existing annotation environments support span-based and relation-based annotation, discontinuous structures are frequently represented indirectly through workaround mechanisms, such as linking independent spans via auxiliary relations. This may increase annotation complexity and reduce the transparency of the resulting annotation objects. This paper introduces Annotaterm, a lightweight web-based annotation environment designed to support the direct annotation of contiguous, discontinuous, and overlapping terms through a fragment-based interaction model. This model supports simple, composite, and overlapping annotations in a uniform and inspectable way. A preliminary user evaluation with 14 participants suggests that the tool is perceived as suitable for terminology-oriented annotation tasks, particularly for handling overlapping and discontinuous expressions, while also identifying areas for future refinement. The proposed approach contributes both a conceptual model and a practical annotation environment for digital-library and terminology-oriented workflows requiring transparent handling of complex textual structures.

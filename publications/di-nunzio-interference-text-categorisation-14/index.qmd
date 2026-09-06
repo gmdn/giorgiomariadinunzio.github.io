@@ -1,0 +1,21 @@
+---
+title: "Interference in Text Categorisation Experiments"
+date: "2014"
+description-meta: "This article examines manual textual categorisation by human coders with the hypothesis that the law of total probability may be violated for difficult categories. An empirical evaluation was conducted to compare a one step categorisation task with a two step categorisation task using crowdsourcing. It was found that the law of total probability was violated. Both a quantum and classical probabilistic interpretations for this violation are presented. Further studies are required to resolve whether quantum models are more appropriate for this task."
+categories: ["Conference Paper"]
+pub-authors: "<strong>Di Nunzio, G. M.</strong>, Bruza, P., & Sitbon, L."
+pub-venue: "Quantum Interaction"
+pub-details: "pp. 22-33"
+pub-doi: "10.1007/978-3-642-54943-4_3"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors"><strong>Di Nunzio, G. M.</strong>, Bruza, P., & Sitbon, L.</p>
+
+<p class="nw-pub-venue"><em>Quantum Interaction</em>, pp. 22-33</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [DOI](https://doi.org/10.1007/978-3-642-54943-4_3){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}
+
+## Abstract
+
+This article examines manual textual categorisation by human coders with the hypothesis that the law of total probability may be violated for difficult categories. An empirical evaluation was conducted to compare a one step categorisation task with a two step categorisation task using crowdsourcing. It was found that the law of total probability was violated. Both a quantum and classical probabilistic interpretations for this violation are presented. Further studies are required to resolve whether quantum models are more appropriate for this task.

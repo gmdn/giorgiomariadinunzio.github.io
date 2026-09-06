@@ -1,0 +1,16 @@
+---
+title: "Overview of GutBrainIE@CLEF 2025: Gut-Brain Interplay Information Extraction"
+date: "2025-09-09"
+categories: ["Conference Paper"]
+pub-authors: "Martinelli, M., Silvello, G., Bonato, V., <strong>Di Nunzio, G. M.</strong>, Ferro, N., Irrera, O., Marchesin, S., Menotti, L., & Vezzani, F."
+pub-venue: "Working Notes of the Conference and Labs of the Evaluation Forum (CLEF 2025)"
+pub-details: "vol. 4038, pp. 65-98"
+pub-url: "https://ceur-ws.org/Vol-4038/#paper_5"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors">Martinelli, M., Silvello, G., Bonato, V., <strong>Di Nunzio, G. M.</strong>, Ferro, N., Irrera, O., Marchesin, S., Menotti, L., & Vezzani, F.</p>
+
+<p class="nw-pub-venue"><em>Working Notes of the Conference and Labs of the Evaluation Forum (CLEF 2025)</em>, vol. 4038, pp. 65-98</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [Source](https://ceur-ws.org/Vol-4038/#paper_5){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}

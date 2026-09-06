@@ -1,0 +1,22 @@
+---
+title: "ORNARE: Toward a Digital Methodology for Onomastic Data in Medieval French Romance"
+date: "2025-10-23"
+description-meta: "This paper presents ORNARE (Onomastic Repertoire of the Roman d’Alexandre), the first outcome of a broader research initiative aimed at developing a digital onomastic repertory for medieval French romance. After outlining the status quaestionis of medieval onomastic resources, particularly digital ones, the article explains the motivations behind the project, the criteria for constructing the research corpus, and the challenges of defining the category of anthroponym in a medieval context. It then details the methodological framework adopted for data modeling and annotation. The paper concludes by discussing the initial results produced by the ORNARE project, with a focus on the Roman d’Alexandre as a case study."
+categories: ["Journal Article"]
+pub-authors: "Milazzo, M. & <strong>Di Nunzio, G. M.</strong>"
+pub-venue: "Umanistica Digitale"
+pub-details: "no. 21, pp. 141-158"
+pub-doi: "10.60923/issn.2532-8816/22288"
+pub-url: "https://umanisticadigitale.unibo.it/article/view/22288"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors">Milazzo, M. & <strong>Di Nunzio, G. M.</strong></p>
+
+<p class="nw-pub-venue"><em>Umanistica Digitale</em>, no. 21, pp. 141-158</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [DOI](https://doi.org/10.60923/issn.2532-8816/22288){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}
+
+## Abstract
+
+This paper presents ORNARE (Onomastic Repertoire of the Roman d’Alexandre), the first outcome of a broader research initiative aimed at developing a digital onomastic repertory for medieval French romance. After outlining the status quaestionis of medieval onomastic resources, particularly digital ones, the article explains the motivations behind the project, the criteria for constructing the research corpus, and the challenges of defining the category of anthroponym in a medieval context. It then details the methodological framework adopted for data modeling and annotation. The paper concludes by discussing the initial results produced by the ORNARE project, with a focus on the Roman d’Alexandre as a case study.

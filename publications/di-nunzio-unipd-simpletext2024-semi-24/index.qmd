@@ -1,0 +1,16 @@
+---
+title: "UNIPD@SimpleText2024: A Semi-Manual Approach on Prompting ChatGPT for Extracting Terms                and Write Terminological Definitions"
+date: "2024-09-09"
+categories: ["Conference Paper"]
+pub-authors: "<strong>Di Nunzio, G. M.</strong>, Gallina, E., & Vezzani, F."
+pub-venue: "Working Notes of the Conference and Labs of the Evaluation Forum (CLEF 2024)"
+pub-details: "vol. 3740, pp. 3230-3237"
+pub-url: "https://ceur-ws.org/Vol-3740/#paper-313"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors"><strong>Di Nunzio, G. M.</strong>, Gallina, E., & Vezzani, F.</p>
+
+<p class="nw-pub-venue"><em>Working Notes of the Conference and Labs of the Evaluation Forum (CLEF 2024)</em>, vol. 3740, pp. 3230-3237</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [Source](https://ceur-ws.org/Vol-3740/#paper-313){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}

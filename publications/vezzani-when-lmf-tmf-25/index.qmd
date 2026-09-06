@@ -1,0 +1,22 @@
+---
+title: "When LMF and TMF meet: Towards a Unified Markup Framework (UMF)"
+date: "2025/05/23"
+description-meta: "Abstract The interoperability of language resources is crucial for effective communication and data exchange across various computational systems. In this context, the ISO/TC 37 standards, specifically the Lexical Markup Framework (LMF) and the Terminological Markup Framework (TMF), play a vital role by providing a common framework for the modelling, representation, and exchange of lexical and terminological data. The LMF has been deliberately aligned with TMF to facilitate close coordination between the two standards. This paper explores the convergence between LMF and TMF, underscoring the need for a Unified Markup Framework (UMF) that enhances interoperability and effective resource management. We propose a unified meta-model that integrates these frameworks through comparative analysis and real-world examples, facilitating the development of advanced language processing applications and multilingual lexicographic and terminology management. This study not only underscores the opportunities and challenges of such coordination but also sets the groundwork for future research directions in the harmonisation of lexicographic and terminology resources."
+categories: ["Journal Article"]
+pub-authors: "Vezzani, F., <strong>Di Nunzio, G. M.</strong>, Salgado, A., & Costa, R."
+pub-venue: "Terminology. International Journal of Theoretical and Applied Issues in Specialized Communication"
+pub-details: "vol. 31, no. 1, pp. 72-109"
+pub-doi: "10.1075/term.00084.vez"
+pub-url: "https://www.jbe-platform.com/content/journals/10.1075/term.00084.vez"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors">Vezzani, F., <strong>Di Nunzio, G. M.</strong>, Salgado, A., & Costa, R.</p>
+
+<p class="nw-pub-venue"><em>Terminology. International Journal of Theoretical and Applied Issues in Specialized Communication</em>, vol. 31, no. 1, pp. 72-109</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [DOI](https://doi.org/10.1075/term.00084.vez){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}
+
+## Abstract
+
+Abstract The interoperability of language resources is crucial for effective communication and data exchange across various computational systems. In this context, the ISO/TC 37 standards, specifically the Lexical Markup Framework (LMF) and the Terminological Markup Framework (TMF), play a vital role by providing a common framework for the modelling, representation, and exchange of lexical and terminological data. The LMF has been deliberately aligned with TMF to facilitate close coordination between the two standards. This paper explores the convergence between LMF and TMF, underscoring the need for a Unified Markup Framework (UMF) that enhances interoperability and effective resource management. We propose a unified meta-model that integrates these frameworks through comparative analysis and real-world examples, facilitating the development of advanced language processing applications and multilingual lexicographic and terminology management. This study not only underscores the opportunities and challenges of such coordination but also sets the groundwork for future research directions in the harmonisation of lexicographic and terminology resources.

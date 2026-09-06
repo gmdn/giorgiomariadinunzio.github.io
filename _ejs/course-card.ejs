@@ -1,0 +1,7 @@
+<% for (const item of items) { %>
+<div class="nw-card nw-course">
+<h3><a href="<%- item.path %>"><%= item.title %></a></h3>
+<div class="nw-course-meta"><% if (item['academic-year']) { %><span>Academic Year: <%= item['academic-year'] %></span><% } %></div>
+<div class="nw-chips"><% for (const c of (item.categories || [])) { %><span class="nw-chip"><%= c %></span><% } %></div>
+</div>
+<% } %>

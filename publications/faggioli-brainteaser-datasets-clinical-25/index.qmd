@@ -1,0 +1,22 @@
+---
+title: "The BRAINTEASER Datasets: Clinical, Wearable and Environmental Data for ALS & MS Progression Modeling"
+date: "2025-11-21"
+description-meta: "Amyotrophic lateral sclerosis (ALS) and multiple sclerosis (MS) are debilitating diseases with unpredictable progression. Artificial Intelligence-based tools for modelling disease progression could significantly improve the quality of life for patients and caregivers while supporting clinicians in delivering more personalized and timely care. However, the limited availability of data hinders the development, testing, and reproducibility of such predictive tools. To address this challenge, we curated, in the context of the H2020 BRAINTEASER project, four datasets containing clinical data from a total of 2,290 ALS patients and 723 MS patients. These datasets also include environmental data and information collected through wearable devices. Unlike most existing resources, the BRAINTEASER datasets are gathered from clinical practice, offering a more accurate representation of the data that an AI progression prediction tool would encounter in real-world scenarios. In addition to manual and automated data quality checks, the research community has validated the datasets through three editions of the intelligent Disease Progression Prediction challenges held within the Conference and Labs of the Evaluation Forum (CLEF)."
+categories: ["Journal Article"]
+pub-authors: "Faggioli, G., Menotti, L., Marchesin, S., Trescato, I., Ahmad, L., Aidos, H., Alungulese, A. L., Bellazzi, R., Bergamaschi, R., Birolo, G., Bosoni, P., Cabrera-Umpiérrez, M. F., Cavalla, P., Chió, A., Dagliati, A., de Carvalho, M., Fariselli, P., García Dominguez, J. M., González Martínez, S., Gromicho, M., Guazzo, A., Jovanović, A., Kostić, B., Longato, E., Madeira, S. C., Manera, U., Muñoz Blanco, J. L., Tavazzi, E., Tavazzi, E., Trasobares Iglesias, E., Urošević, V., Vettoretti, M., <strong>Di Nunzio, G. M.</strong>, Silvello, G., Di Camillo, B., & Ferro, N."
+pub-venue: "Scientific Data"
+pub-details: "vol. 12, no. 1, pp. 1854"
+pub-doi: "10.1038/s41597-025-06095-1"
+pub-url: "https://www.nature.com/articles/s41597-025-06095-1"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors">Faggioli, G., Menotti, L., Marchesin, S., Trescato, I., Ahmad, L., Aidos, H., Alungulese, A. L., Bellazzi, R., Bergamaschi, R., Birolo, G., Bosoni, P., Cabrera-Umpiérrez, M. F., Cavalla, P., Chió, A., Dagliati, A., de Carvalho, M., Fariselli, P., García Dominguez, J. M., González Martínez, S., Gromicho, M., Guazzo, A., Jovanović, A., Kostić, B., Longato, E., Madeira, S. C., Manera, U., Muñoz Blanco, J. L., Tavazzi, E., Tavazzi, E., Trasobares Iglesias, E., Urošević, V., Vettoretti, M., <strong>Di Nunzio, G. M.</strong>, Silvello, G., Di Camillo, B., & Ferro, N.</p>
+
+<p class="nw-pub-venue"><em>Scientific Data</em>, vol. 12, no. 1, pp. 1854</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [DOI](https://doi.org/10.1038/s41597-025-06095-1){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}
+
+## Abstract
+
+Amyotrophic lateral sclerosis (ALS) and multiple sclerosis (MS) are debilitating diseases with unpredictable progression. Artificial Intelligence-based tools for modelling disease progression could significantly improve the quality of life for patients and caregivers while supporting clinicians in delivering more personalized and timely care. However, the limited availability of data hinders the development, testing, and reproducibility of such predictive tools. To address this challenge, we curated, in the context of the H2020 BRAINTEASER project, four datasets containing clinical data from a total of 2,290 ALS patients and 723 MS patients. These datasets also include environmental data and information collected through wearable devices. Unlike most existing resources, the BRAINTEASER datasets are gathered from clinical practice, offering a more accurate representation of the data that an AI progression prediction tool would encounter in real-world scenarios. In addition to manual and automated data quality checks, the research community has validated the datasets through three editions of the intelligent Disease Progression Prediction challenges held within the Conference and Labs of the Evaluation Forum (CLEF).

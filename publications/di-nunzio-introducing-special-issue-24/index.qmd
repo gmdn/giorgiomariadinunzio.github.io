@@ -1,0 +1,22 @@
+---
+title: "Introducing the Special Issue Terminology in the Digital World"
+date: "2024/9"
+description-meta: "This Special Issue is dedicated to the 2nd International Conference on “Multilingual digital terminology today: Design, representation formats, and management systems” (MDTT 2023) (Di Nunzio et al [...]"
+categories: ["Journal Article"]
+pub-authors: "<strong>Di Nunzio, G. M.</strong>, Costa, R., & Vezzani, F."
+pub-venue: "Languages"
+pub-details: "vol. 9, no. 9, pp. 284"
+pub-doi: "10.3390/languages9090284"
+pub-url: "https://www.mdpi.com/2226-471X/9/9/284"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors"><strong>Di Nunzio, G. M.</strong>, Costa, R., & Vezzani, F.</p>
+
+<p class="nw-pub-venue"><em>Languages</em>, vol. 9, no. 9, pp. 284</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [DOI](https://doi.org/10.3390/languages9090284){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}
+
+## Abstract
+
+This Special Issue is dedicated to the 2nd International Conference on “Multilingual digital terminology today: Design, representation formats, and management systems” (MDTT 2023) (Di Nunzio et al [...]

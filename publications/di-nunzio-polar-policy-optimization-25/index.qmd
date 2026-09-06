@@ -1,0 +1,22 @@
+---
+title: "POLAR: Policy Optimization for Literature Analysis under Review Constraints"
+date: "November 10, 2025"
+description-meta: "Systematic reviews are vital for evidence-based decision-making but remain resource-intensive due to the volume of literature requiring expert screening. Technology-Assisted Review (TAR) systems offer a solution by ranking documents for review, yet questions remain about how best to allocate limited human effort across multiple review topics. In this paper, we explore the problem of effort distribution by comparing alternative screening policies under fixed effort constraints. Using real-world data from the CLEF eHealth 2017-2019 TAR tasks, we evaluate both baseline and adaptive policies that account for topic size, screening depth, and residual uncertainty. We introduce effort-aware evaluation metrics to measure trade-offs between review effectiveness and resource use. Our results show that simple, topic-sensitive policies can significantly improve the yield of relevant documents discovered, offering practical insights for scalable and equitable systematic review workflows."
+categories: ["Conference Paper"]
+pub-authors: "<strong>Di Nunzio, G. M.</strong>"
+pub-venue: "Proceedings of the 34th ACM International Conference on Information and Knowledge Management"
+pub-details: "pp. 4712–4716"
+pub-doi: "10.1145/3746252.3760834"
+pub-url: "https://dl.acm.org/doi/10.1145/3746252.3760834"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors"><strong>Di Nunzio, G. M.</strong></p>
+
+<p class="nw-pub-venue"><em>Proceedings of the 34th ACM International Conference on Information and Knowledge Management</em>, pp. 4712–4716</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [DOI](https://doi.org/10.1145/3746252.3760834){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}
+
+## Abstract
+
+Systematic reviews are vital for evidence-based decision-making but remain resource-intensive due to the volume of literature requiring expert screening. Technology-Assisted Review (TAR) systems offer a solution by ranking documents for review, yet questions remain about how best to allocate limited human effort across multiple review topics. In this paper, we explore the problem of effort distribution by comparing alternative screening policies under fixed effort constraints. Using real-world data from the CLEF eHealth 2017-2019 TAR tasks, we evaluate both baseline and adaptive policies that account for topic size, screening depth, and residual uncertainty. We introduce effort-aware evaluation metrics to measure trade-offs between review effectiveness and resource use. Our results show that simple, topic-sensitive policies can significantly improve the yield of relevant documents discovered, offering practical insights for scalable and equitable systematic review workflows.

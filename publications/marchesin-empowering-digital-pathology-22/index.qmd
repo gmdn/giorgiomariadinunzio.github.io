@@ -1,0 +1,22 @@
+---
+title: "Empowering digital pathology applications through explainable knowledge extraction tools"
+date: "2022-01-01"
+description-meta: "Exa-scale volumes of medical data have been produced for decades. In most cases, the diagnosis is reported in free text, encoding medical knowledge that is still largely unexploited. In order to allow decoding medical knowledge included in reports, we propose an unsupervised knowledge extraction system combining a rule-based expert system with pre-trained Machine Learning (ML) models, namely the Semantic Knowledge Extractor Tool (SKET). Combining rule-based techniques and pre-trained ML models provides high accuracy results for knowledge extraction. This work demonstrates the viability of unsupervised Natural Language Processing (NLP) techniques to extract critical information from cancer reports, opening opportunities such as data mining for knowledge extraction purposes, precision medicine applications, structured report creation, and multimodal learning. SKET is a practical and unsupervised approach to extracting knowledge from pathology reports, which opens up unprecedented opportunities to exploit textual and multimodal medical information in clinical practice. We also propose SKET eXplained (SKET X), a web-based system providing visual explanations about the algorithmic decisions taken by SKET. SKET X is designed/developed to support pathologists and domain experts in understanding SKET predictions, possibly driving further improvements to the system."
+categories: ["Journal Article"]
+pub-authors: "Marchesin, S., Giachelle, F., Marini, N., Atzori, M., Boytcheva, S., Buttafuoco, G., Ciompi, F., <strong>Di Nunzio, G. M.</strong>, Fraggetta, F., Irrera, O., Müller, H., Primov, T., Vatrano, S., & Silvello, G."
+pub-venue: "Journal of Pathology Informatics"
+pub-details: "vol. 13, pp. 100139"
+pub-doi: "10.1016/j.jpi.2022.100139"
+pub-url: "https://www.sciencedirect.com/science/article/pii/S2153353922007337"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors">Marchesin, S., Giachelle, F., Marini, N., Atzori, M., Boytcheva, S., Buttafuoco, G., Ciompi, F., <strong>Di Nunzio, G. M.</strong>, Fraggetta, F., Irrera, O., Müller, H., Primov, T., Vatrano, S., & Silvello, G.</p>
+
+<p class="nw-pub-venue"><em>Journal of Pathology Informatics</em>, vol. 13, pp. 100139</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [DOI](https://doi.org/10.1016/j.jpi.2022.100139){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}
+
+## Abstract
+
+Exa-scale volumes of medical data have been produced for decades. In most cases, the diagnosis is reported in free text, encoding medical knowledge that is still largely unexploited. In order to allow decoding medical knowledge included in reports, we propose an unsupervised knowledge extraction system combining a rule-based expert system with pre-trained Machine Learning (ML) models, namely the Semantic Knowledge Extractor Tool (SKET). Combining rule-based techniques and pre-trained ML models provides high accuracy results for knowledge extraction. This work demonstrates the viability of unsupervised Natural Language Processing (NLP) techniques to extract critical information from cancer reports, opening opportunities such as data mining for knowledge extraction purposes, precision medicine applications, structured report creation, and multimodal learning. SKET is a practical and unsupervised approach to extracting knowledge from pathology reports, which opens up unprecedented opportunities to exploit textual and multimodal medical information in clinical practice. We also propose SKET eXplained (SKET X), a web-based system providing visual explanations about the algorithmic decisions taken by SKET. SKET X is designed/developed to support pathologists and domain experts in understanding SKET predictions, possibly driving further improvements to the system.

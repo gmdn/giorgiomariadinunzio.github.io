@@ -1,0 +1,21 @@
+---
+title: "FAIR Terminology Meets CLEAR Global"
+date: "2024"
+description-meta: "This paper presents the design and implementation of a web application aimed at facilitating access to a multilingual terminology database specifically created for speakers of marginalized languages that often cannot access information they need and want in a language and format they understand. The database contains essential concepts translated into 39 languages, for a total of 9,506 terms. The design of the database and the web application has been performed in order to follow the FAIR principle of Open Science in order to guarantee efficient data organization and retrieval. The web application, developed using the R Shiny framework, enables users to search the database by selecting a source language and, optionally, a target language. The interface displays concept definitions in English and provides filtered lists of equivalents in the chosen languages. Users can export selected datasets in TermBase eXchange standard (TBX) format for reusability. The interface offers a user-friendly experience, allowing users to navigate through the database effortlessly."
+categories: ["Conference Paper"]
+pub-authors: "<strong>Di Nunzio, G. M.</strong>, Papp, E., Vezzani, F., & Kemp, E."
+pub-venue: "Linking Theory and Practice of Digital Libraries"
+pub-details: "pp. 173-182"
+pub-doi: "10.1007/978-3-031-72440-4_17"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors"><strong>Di Nunzio, G. M.</strong>, Papp, E., Vezzani, F., & Kemp, E.</p>
+
+<p class="nw-pub-venue"><em>Linking Theory and Practice of Digital Libraries</em>, pp. 173-182</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [DOI](https://doi.org/10.1007/978-3-031-72440-4_17){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}
+
+## Abstract
+
+This paper presents the design and implementation of a web application aimed at facilitating access to a multilingual terminology database specifically created for speakers of marginalized languages that often cannot access information they need and want in a language and format they understand. The database contains essential concepts translated into 39 languages, for a total of 9,506 terms. The design of the database and the web application has been performed in order to follow the FAIR principle of Open Science in order to guarantee efficient data organization and retrieval. The web application, developed using the R Shiny framework, enables users to search the database by selecting a source language and, optionally, a target language. The interface displays concept definitions in English and provides filtered lists of equivalents in the chosen languages. Users can export selected datasets in TermBase eXchange standard (TBX) format for reusability. The interface offers a user-friendly experience, allowing users to navigate through the database effortlessly.

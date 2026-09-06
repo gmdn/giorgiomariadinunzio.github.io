@@ -1,0 +1,16 @@
+---
+title: "Knowledge Graphs for the Web Economy: The CHiPS&BITS Project on Cultural Heritage"
+date: "2025-02-20"
+categories: ["Conference Paper"]
+pub-authors: "Ferilli, S., Bernasconi, E., Redavid, D., & <strong>Di Nunzio, G. M.</strong>"
+pub-venue: "Proceedings of the 21st Conference on Information and Research science Connecting to Digital and Library science"
+pub-details: "vol. 3937"
+pub-url: "https://ceur-ws.org/Vol-3937/#paper5"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors">Ferilli, S., Bernasconi, E., Redavid, D., & <strong>Di Nunzio, G. M.</strong></p>
+
+<p class="nw-pub-venue"><em>Proceedings of the 21st Conference on Information and Research science Connecting to Digital and Library science</em>, vol. 3937</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [Source](https://ceur-ws.org/Vol-3937/#paper5){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}

@@ -1,0 +1,22 @@
+---
+title: "A Study of a Gain Based Approach for Query Aspects in Recall Oriented Tasks"
+date: "2021/1"
+description-meta: "Evidence-based healthcare integrates the best research evidence with clinical expertise in order to make decisions based on the best practices available. In this context, the task of collecting all the relevant information, a recall oriented task, in order to take the right decision within a reasonable time frame has become an important issue. In this paper, we investigate the problem of building effective Consumer Health Search (CHS) systems that use query variations to achieve high recall and fulfill the information needs of health consumers. In particular, we study an intent-aware gain metric used to estimate the amount of missing information and make a prediction about the achievable recall for each query reformulation during a search session. We evaluate and propose alternative formulations of this metric using standard test collections of the CLEF 2018 eHealth Evaluation Lab CHS."
+categories: ["Journal Article"]
+pub-authors: "<strong>Di Nunzio, G. M.</strong> & Faggioli, G."
+pub-venue: "Applied Sciences"
+pub-details: "vol. 11, no. 19, pp. 9075"
+pub-doi: "10.3390/app11199075"
+pub-url: "https://www.mdpi.com/2076-3417/11/19/9075"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors"><strong>Di Nunzio, G. M.</strong> & Faggioli, G.</p>
+
+<p class="nw-pub-venue"><em>Applied Sciences</em>, vol. 11, no. 19, pp. 9075</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [DOI](https://doi.org/10.3390/app11199075){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}
+
+## Abstract
+
+Evidence-based healthcare integrates the best research evidence with clinical expertise in order to make decisions based on the best practices available. In this context, the task of collecting all the relevant information, a recall oriented task, in order to take the right decision within a reasonable time frame has become an important issue. In this paper, we investigate the problem of building effective Consumer Health Search (CHS) systems that use query variations to achieve high recall and fulfill the information needs of health consumers. In particular, we study an intent-aware gain metric used to estimate the amount of missing information and make a prediction about the achievable recall for each query reformulation during a search session. We evaluate and propose alternative formulations of this metric using standard test collections of the CLEF 2018 eHealth Evaluation Lab CHS.

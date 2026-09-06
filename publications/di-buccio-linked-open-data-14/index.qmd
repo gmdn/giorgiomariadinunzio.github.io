@@ -1,0 +1,22 @@
+---
+title: "A linked open data approach for geolinguistics applications"
+date: "2014-01"
+description-meta: "Geolinguistic systems explore the relationship between language and cultural adaptation and change and they can be used as instructional tools, presenting complex data and relationships in a way accessible to all educational levels. However, the heterogeneity of geolinguistic projects has been recognised as a key problem limiting the reusability of linguistic tools and data collections. We propose an approach based on LOD, which moves the focus from the systems handling the data to the data themselves with the main goal of increasing the level of interoperability of geolinguistic applications and the reuse of the data. We defined an extensible ontology for geolinguistic resources based on the common ground defined by current European linguistic projects. We provide a Geolinguistic Linked Open Dataset based on the data case study of a linguistic project named ASIt. Finally, we show a geolinguistic application, which exploits this dataset for dynamically generating linguistic maps."
+categories: ["Journal Article"]
+pub-authors: "Di Buccio, E., <strong>Di Nunzio, G. M.</strong>, & Silvello, G."
+pub-venue: "International Journal of Metadata, Semantics and Ontologies"
+pub-details: "vol. 9, no. 1, pp. 29-41"
+pub-doi: "10.1504/IJMSO.2014.059125"
+pub-url: "https://www.inderscienceonline.com/doi/abs/10.1504/IJMSO.2014.059125"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors">Di Buccio, E., <strong>Di Nunzio, G. M.</strong>, & Silvello, G.</p>
+
+<p class="nw-pub-venue"><em>International Journal of Metadata, Semantics and Ontologies</em>, vol. 9, no. 1, pp. 29-41</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [DOI](https://doi.org/10.1504/IJMSO.2014.059125){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}
+
+## Abstract
+
+Geolinguistic systems explore the relationship between language and cultural adaptation and change and they can be used as instructional tools, presenting complex data and relationships in a way accessible to all educational levels. However, the heterogeneity of geolinguistic projects has been recognised as a key problem limiting the reusability of linguistic tools and data collections. We propose an approach based on LOD, which moves the focus from the systems handling the data to the data themselves with the main goal of increasing the level of interoperability of geolinguistic applications and the reuse of the data. We defined an extensible ontology for geolinguistic resources based on the common ground defined by current European linguistic projects. We provide a Geolinguistic Linked Open Dataset based on the data case study of a linguistic project named ASIt. Finally, we show a geolinguistic application, which exploits this dataset for dynamically generating linguistic maps.

@@ -1,0 +1,16 @@
+---
+title: "Overview of the InternationalWorkshop on Definition and Term Extraction Challenge (DETECH) 2026"
+date: "2026-06-24"
+categories: ["Conference Paper"]
+pub-authors: "Vezzani, F., <strong>Di Nunzio, G. M.</strong>, Bonato, V., & Silvello, G."
+pub-venue: "Proceedings of the DEfinition and Term Extraction CHallenge (DETECH 2026)"
+pub-details: "vol. 4215"
+pub-url: "https://ceur-ws.org/Vol-4215/#intro1"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors">Vezzani, F., <strong>Di Nunzio, G. M.</strong>, Bonato, V., & Silvello, G.</p>
+
+<p class="nw-pub-venue"><em>Proceedings of the DEfinition and Term Extraction CHallenge (DETECH 2026)</em>, vol. 4215</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [Source](https://ceur-ws.org/Vol-4215/#intro1){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}

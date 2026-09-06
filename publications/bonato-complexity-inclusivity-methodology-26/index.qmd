@@ -1,0 +1,21 @@
+---
+title: "From Complexity to Inclusivity: A Methodology for Drafting Patient-Centered Explanations of Gut-Brain Axis Concepts"
+date: "2026/5"
+description-meta: "Vanessa Bonato, Federica Vezzani, Giorgio Maria Di Nunzio. Proceedings of the 2nd Workshop on Evaluating Text Difficulty in a Multilingual Context (DeTermIt! 2026). 2026."
+categories: ["Conference Paper"]
+pub-authors: "Bonato, V., Vezzani, F., & <strong>Di Nunzio, G. M.</strong>"
+pub-venue: "Proceedings of the 2nd Workshop on Evaluating Text Difficulty in a Multilingual Context (DeTermIt! 2026)"
+pub-details: "pp. 33-41"
+pub-doi: "10.63317/29jou5bnmqof"
+pub-url: "https://lrec.elra.info/lrec2026-ws-determit-04"
+---
+
+<p class="nw-pub-authors">Bonato, V., Vezzani, F., & <strong>Di Nunzio, G. M.</strong></p>
+
+<p class="nw-pub-venue"><em>Proceedings of the 2nd Workshop on Evaluating Text Difficulty in a Multilingual Context (DeTermIt! 2026)</em>, pp. 33-41</p>
+
+[DOI](https://doi.org/10.63317/29jou5bnmqof){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}
+
+## Abstract
+
+Vanessa Bonato, Federica Vezzani, Giorgio Maria Di Nunzio. Proceedings of the 2nd Workshop on Evaluating Text Difficulty in a Multilingual Context (DeTermIt! 2026). 2026.

@@ -1,0 +1,21 @@
+---
+title: "Preserving endangered linguistic heritage: Developing a corpus for the study of contact-induced changes in corfioto"
+date: "2026-05"
+description-meta: "This paper presents current results of a work-in-progress project on the aims, goals, and methods for compiling a state-of-the-art morphosyntactically annotated corpus of Corfioto, the endangered Balkan Venetan variety of the Corfiot Jews. It gives an outline of the workflow for building, archiving, managing and annotating the first mixed-language corpus of original oral and written data of the Corfiot Jews, based on the Universal Dependencies (UD) framework and introduces the design and the implementation of an application for the Interactive MorPhosyntactic Annotation of Corfioto (IMPACT). The creation and the annotation of the corpus serves three goals: i) attain a quantitative analysis of variation in available data for the analysis of contact-induced syntactic change in clausal complementation in Corfioto; ii) enable the creation of a gold standard and the training of a model for the linguistic annotation of all data in the Universal Dependencies framework; and iii) contribute to the ever-growing research in the development of language resources and tools for endangered and low-resource contact varieties via the collaboration of computational, theoretical and fieldwork linguists."
+categories: ["Conference Paper"]
+pub-authors: "<strong>Di Nunzio, G. M.</strong> & Vardakis, G."
+pub-venue: "Proceedings of the fifteenth language resources and evaluation conference (LREC 2026)"
+pub-details: "pp. 985–996"
+pub-doi: "10.63317/22f25qjioax5"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors"><strong>Di Nunzio, G. M.</strong> & Vardakis, G.</p>
+
+<p class="nw-pub-venue"><em>Proceedings of the fifteenth language resources and evaluation conference (LREC 2026)</em>, pp. 985–996</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [DOI](https://doi.org/10.63317/22f25qjioax5){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}
+
+## Abstract
+
+This paper presents current results of a work-in-progress project on the aims, goals, and methods for compiling a state-of-the-art morphosyntactically annotated corpus of Corfioto, the endangered Balkan Venetan variety of the Corfiot Jews. It gives an outline of the workflow for building, archiving, managing and annotating the first mixed-language corpus of original oral and written data of the Corfiot Jews, based on the Universal Dependencies (UD) framework and introduces the design and the implementation of an application for the Interactive MorPhosyntactic Annotation of Corfioto (IMPACT). The creation and the annotation of the corpus serves three goals: i) attain a quantitative analysis of variation in available data for the analysis of contact-induced syntactic change in clausal complementation in Corfioto; ii) enable the creation of a gold standard and the training of a model for the linguistic annotation of all data in the Universal Dependencies framework; and iii) contribute to the ever-growing research in the development of language resources and tools for endangered and low-resource contact varieties via the collaboration of computational, theoretical and fieldwork linguists.

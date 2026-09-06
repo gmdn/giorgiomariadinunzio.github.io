@@ -1,0 +1,22 @@
+---
+title: "La comunicazione medico-paziente: analisi terminologica e di semplificazione nel dominio dell’oncologia femminile"
+date: "2024-07-29"
+description-meta: "Taking into account the considerable impact that medical information has on the lives of human beings, it is crucial that medical language is correctly adapted to the needs of patients. This study aims to observe how communication between doctor and patient takes place with the aim of examining the elements of medical language that may compromise the understanding of non-experts in the domain of female oncology. In this regard, the working methodology, based on corpus linguistics and translation-oriented terminography, is illustrated in order to propose an analysis of the terminology that may alter doctor-patient communication. Indeed, a qualitative analysis of terminology cases that caught our attention is proposed. Furthermore, the difficulties posed by the medical language in popular communication are confirmed by analysing the readability of brochures addressed to cancer patients thanks to the criteria of text simplification."
+categories: ["Journal Article"]
+pub-authors: "Giovagnoli, A., Vezzani, F., & <strong>Di Nunzio, G. M.</strong>"
+pub-venue: "Umanistica Digitale"
+pub-details: "no. 17, pp. 143-164"
+pub-doi: "10.6092/issn.2532-8816/19265"
+pub-url: "https://umanisticadigitale.unibo.it/article/view/19265"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors">Giovagnoli, A., Vezzani, F., & <strong>Di Nunzio, G. M.</strong></p>
+
+<p class="nw-pub-venue"><em>Umanistica Digitale</em>, no. 17, pp. 143-164</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [DOI](https://doi.org/10.6092/issn.2532-8816/19265){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}
+
+## Abstract
+
+Taking into account the considerable impact that medical information has on the lives of human beings, it is crucial that medical language is correctly adapted to the needs of patients. This study aims to observe how communication between doctor and patient takes place with the aim of examining the elements of medical language that may compromise the understanding of non-experts in the domain of female oncology. In this regard, the working methodology, based on corpus linguistics and translation-oriented terminography, is illustrated in order to propose an analysis of the terminology that may alter doctor-patient communication. Indeed, a qualitative analysis of terminology cases that caught our attention is proposed. Furthermore, the difficulties posed by the medical language in popular communication are confirmed by analysing the readability of brochures addressed to cancer patients thanks to the criteria of text simplification.

@@ -1,0 +1,21 @@
+---
+title: "Le sens de la polysémie en terminologie : propositions de représentation"
+date: "2025-10-02T04:53:42+00:00"
+description-meta: "Continue de lire..."
+categories: ["Journal Article"]
+pub-authors: "Vezzani, F., Costa, R., <strong>Di Nunzio, G. M.</strong>, & Piccini, S."
+pub-venue: "Repères-Dorif"
+pub-details: "no. 33"
+pub-url: "https://www.dorif.it/reperes/f-vezzani-r-costa-g-m-di-nunzio-s-piccini-le-sens-de-la-polysemie-en-terminologie-propositions-de-representation/"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors">Vezzani, F., Costa, R., <strong>Di Nunzio, G. M.</strong>, & Piccini, S.</p>
+
+<p class="nw-pub-venue"><em>Repères-Dorif</em>, no. 33</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [Source](https://www.dorif.it/reperes/f-vezzani-r-costa-g-m-di-nunzio-s-piccini-le-sens-de-la-polysemie-en-terminologie-propositions-de-representation/){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}
+
+## Abstract
+
+Continue de lire...

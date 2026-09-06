@@ -12,3 +12,6 @@ Thumbs.db
 .idea/
 .vscode/
 *.log
+.Rproj.user
+Rstudio_project.Rproj
+**/*.quarto_ipynb

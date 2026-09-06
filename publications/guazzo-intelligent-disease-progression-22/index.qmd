@@ -1,0 +1,21 @@
+---
+title: "Intelligent Disease Progression Prediction: Overview of iDPP@CLEF 2022"
+date: "2022"
+description-meta: "Amyotrophic Lateral Sclerosis (ALS) is a severe chronic disease characterized by progressive or alternate impairment of neurological functions, characterized by high heterogeneity both in symptoms and disease progression. As a consequence its clinical course is highly uncertain, challenging both patients and clinicians. Indeed, patients have to manage alternated periods in hospital with care at home, experiencing a constant uncertainty regarding the timing of the disease acute phases and facing a considerable psychological and economic burden that also involves their caregivers. Clinicians, on the other hand, need tools able to support them in all the phases of the patient treatment, suggest personalized therapeutic decisions, indicate urgently needed interventions. The goal of is to design and develop an evaluation infrastructure for AI algorithms able to:"
+categories: ["Conference Paper"]
+pub-authors: "Guazzo, A., Trescato, I., Longato, E., Hazizaj, E., Dosso, D., Faggioli, G., <strong>Di Nunzio, G. M.</strong>, Silvello, G., Vettoretti, M., Tavazzi, E., Roversi, C., Fariselli, P., Madeira, S. C., de Carvalho, M., Gromicho, M., Chiò, A., Manera, U., Dagliati, A., Birolo, G., Aidos, H., Di Camillo, B., & Ferro, N."
+pub-venue: "Experimental IR Meets Multilinguality, Multimodality, and Interaction"
+pub-details: "pp. 395-422"
+pub-doi: "10.1007/978-3-031-13643-6_25"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors">Guazzo, A., Trescato, I., Longato, E., Hazizaj, E., Dosso, D., Faggioli, G., <strong>Di Nunzio, G. M.</strong>, Silvello, G., Vettoretti, M., Tavazzi, E., Roversi, C., Fariselli, P., Madeira, S. C., de Carvalho, M., Gromicho, M., Chiò, A., Manera, U., Dagliati, A., Birolo, G., Aidos, H., Di Camillo, B., & Ferro, N.</p>
+
+<p class="nw-pub-venue"><em>Experimental IR Meets Multilinguality, Multimodality, and Interaction</em>, pp. 395-422</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [DOI](https://doi.org/10.1007/978-3-031-13643-6_25){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}
+
+## Abstract
+
+Amyotrophic Lateral Sclerosis (ALS) is a severe chronic disease characterized by progressive or alternate impairment of neurological functions, characterized by high heterogeneity both in symptoms and disease progression. As a consequence its clinical course is highly uncertain, challenging both patients and clinicians. Indeed, patients have to manage alternated periods in hospital with care at home, experiencing a constant uncertainty regarding the timing of the disease acute phases and facing a considerable psychological and economic burden that also involves their caregivers. Clinicians, on the other hand, need tools able to support them in all the phases of the patient treatment, suggest personalized therapeutic decisions, indicate urgently needed interventions. The goal of is to design and develop an evaluation infrastructure for AI algorithms able to:

@@ -1,0 +1,21 @@
+---
+title: "CLEF 2024 SimpleText Track"
+date: "2024"
+description-meta: "Everyone agrees on the importance of objective scientific information. However, relevant scientific documents tend to be inherently difficult to find and understand either because of intricate terminology or the potential absence of prior knowledge among their readers. Can we improve accessibility for everyone? This paper introduces the SimpleText Track at CLEF 2024, addressing the technical and evaluation challenges associated with making scientific information accessible to a wide audience, including students and non-experts. We provide appropriate reusable data and benchmarks for scientific text summarization and simplification. The CLEF 2024 SimpleText track is based on four interrelated tasks: Task 1 Content Selection: Retrieving Passages to Include in a Simplified Summary. Task 2 Complexity Spotting: Identifying and Explaining Difficult Concepts. Task 3 Text Simplification: Simplify Scientific Text. Task 4 SOTA?: Tracking the State-of-the-Art in Scholarly Publications."
+categories: ["Conference Paper"]
+pub-authors: "Ermakova, L., SanJuan, E., Huet, S., Azarbonyad, H., <strong>Di Nunzio, G. M.</strong>, Vezzani, F., D’Souza, J., Kabongo, S., Giglou, H. B., Zhang, Y., Auer, S., & Kamps, J."
+pub-venue: "Advances in Information Retrieval"
+pub-details: "pp. 28-35"
+pub-doi: "10.1007/978-3-031-56072-9_4"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors">Ermakova, L., SanJuan, E., Huet, S., Azarbonyad, H., <strong>Di Nunzio, G. M.</strong>, Vezzani, F., D’Souza, J., Kabongo, S., Giglou, H. B., Zhang, Y., Auer, S., & Kamps, J.</p>
+
+<p class="nw-pub-venue"><em>Advances in Information Retrieval</em>, pp. 28-35</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [DOI](https://doi.org/10.1007/978-3-031-56072-9_4){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}
+
+## Abstract
+
+Everyone agrees on the importance of objective scientific information. However, relevant scientific documents tend to be inherently difficult to find and understand either because of intricate terminology or the potential absence of prior knowledge among their readers. Can we improve accessibility for everyone? This paper introduces the SimpleText Track at CLEF 2024, addressing the technical and evaluation challenges associated with making scientific information accessible to a wide audience, including students and non-experts. We provide appropriate reusable data and benchmarks for scientific text summarization and simplification. The CLEF 2024 SimpleText track is based on four interrelated tasks: Task 1 Content Selection: Retrieving Passages to Include in a Simplified Summary. Task 2 Complexity Spotting: Identifying and Explaining Difficult Concepts. Task 3 Text Simplification: Simplify Scientific Text. Task 4 SOTA?: Tracking the State-of-the-Art in Scholarly Publications.

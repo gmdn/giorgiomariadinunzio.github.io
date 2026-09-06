@@ -1,0 +1,13 @@
+---
+title: "Proceedings of the 2nd Workshop on Evaluating Text Difficulty in a Multilingual Context (DeTermIt! 2026)"
+date: "2026-05"
+categories: ["Book"]
+pub-venue: "ELRA Language Resources Association (ELRA)"
+pub-doi: "10.63317/3a9vhtm9sv7b"
+pub-url: "https://aclanthology.org/2026.determit-1.0/"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-venue"><em>ELRA Language Resources Association (ELRA)</em></p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [DOI](https://doi.org/10.63317/3a9vhtm9sv7b){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}

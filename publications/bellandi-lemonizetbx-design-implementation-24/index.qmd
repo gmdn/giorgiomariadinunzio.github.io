@@ -1,0 +1,22 @@
+---
+title: "LemonizeTBX: Design and Implementation of a New Converter from TBX to OntoLex-Lemon"
+date: "2024"
+description-meta: "In this paper, we introduce LemonizeTBX, a converter that enhances interoperability between terminological and lexicographical frameworks, acknowledging their divergent data modelling approaches. First, we present the theoretical implications of a conversion from the TermBase eXchange (TBX) concept-oriented framework to the OntoLex-Lemon sense-centred standpoint within Semantic Web technologies. Then, we illustrate the prototype version of the converter, designed as an interactive tool engaging terminologists in the conversion process."
+categories: ["Journal Article"]
+pub-authors: "Bellandi, A., <strong>Di Nunzio, G. M.</strong>, Piccini, S., & Vezzani, F."
+pub-venue: "Digital Humanities Quarterly"
+pub-details: "vol. 18, no. 2"
+pub-doi: "https://doi.org/10.63744/3huz3gtdbggj"
+pub-url: "https://www.digitalhumanities.org/dhq/vol/18/2/000745/000745.html"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors">Bellandi, A., <strong>Di Nunzio, G. M.</strong>, Piccini, S., & Vezzani, F.</p>
+
+<p class="nw-pub-venue"><em>Digital Humanities Quarterly</em>, vol. 18, no. 2</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [DOI](https://doi.org/https://doi.org/10.63744/3huz3gtdbggj){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}
+
+## Abstract
+
+In this paper, we introduce LemonizeTBX, a converter that enhances interoperability between terminological and lexicographical frameworks, acknowledging their divergent data modelling approaches. First, we present the theoretical implications of a conversion from the TermBase eXchange (TBX) concept-oriented framework to the OntoLex-Lemon sense-centred standpoint within Semantic Web technologies. Then, we illustrate the prototype version of the converter, designed as an interactive tool engaging terminologists in the conversion process.

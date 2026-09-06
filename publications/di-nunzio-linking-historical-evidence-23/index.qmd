@@ -1,0 +1,16 @@
+---
+title: "Linking Historical Evidence to Digital Maps: The MICOLL-Map (full paper)"
+date: "2023-11-06"
+categories: ["Conference Paper"]
+pub-authors: "<strong>Di Nunzio, G. M.</strong>, Dyble, J., Giachelle, F., & Gialdroni, S."
+pub-venue: "Proceedings of the 2nd Workshop on Artificial Intelligence for Cultural Heritage (IAI4CH 2023)"
+pub-details: "vol. 3536, pp. 104-112"
+pub-url: "https://ceur-ws.org/Vol-3536/#11_paper"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors"><strong>Di Nunzio, G. M.</strong>, Dyble, J., Giachelle, F., & Gialdroni, S.</p>
+
+<p class="nw-pub-venue"><em>Proceedings of the 2nd Workshop on Artificial Intelligence for Cultural Heritage (IAI4CH 2023)</em>, vol. 3536, pp. 104-112</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [Source](https://ceur-ws.org/Vol-3536/#11_paper){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}

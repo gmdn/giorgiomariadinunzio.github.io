@@ -1,0 +1,22 @@
+---
+title: "A Thorough Reproducibility Study on Sentiment Classification: Methodology, Experimental Setting, Results"
+date: "2023/2"
+description-meta: "A survey published by Nature in 2016 revealed that more than 70% of researchers failed in their attempt to reproduce another researcher’s experiments, and over 50% failed to reproduce one of their own experiments; a state of affairs that has been termed the ‘reproducibility crisis’ in science. The purpose of this work is to contribute to the field by presenting a reproducibility study of a Natural Language Processing paper about “Language Representation Models for Fine-Grained Sentiment Classification”. A thorough analysis of the methodology, experimental setting, and experimental results are presented, leading to a discussion of the issues and the necessary steps involved in this kind of study."
+categories: ["Journal Article"]
+pub-authors: "<strong>Di Nunzio, G. M.</strong> & Minzoni, R."
+pub-venue: "Information"
+pub-details: "vol. 14, no. 2, pp. 76"
+pub-doi: "10.3390/info14020076"
+pub-url: "https://www.mdpi.com/2078-2489/14/2/76"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors"><strong>Di Nunzio, G. M.</strong> & Minzoni, R.</p>
+
+<p class="nw-pub-venue"><em>Information</em>, vol. 14, no. 2, pp. 76</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [DOI](https://doi.org/10.3390/info14020076){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}
+
+## Abstract
+
+A survey published by Nature in 2016 revealed that more than 70% of researchers failed in their attempt to reproduce another researcher’s experiments, and over 50% failed to reproduce one of their own experiments; a state of affairs that has been termed the ‘reproducibility crisis’ in science. The purpose of this work is to contribute to the field by presenting a reproducibility study of a Natural Language Processing paper about “Language Representation Models for Fine-Grained Sentiment Classification”. A thorough analysis of the methodology, experimental setting, and experimental results are presented, leading to a discussion of the issues and the necessary steps involved in this kind of study.

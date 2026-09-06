@@ -1,0 +1,17 @@
+---
+title: "Pour une simplification de la terminologie médicale multilingue : le cas du projet ExaMode"
+date: "2025-08-06"
+categories: ["Journal Article"]
+pub-authors: "Bernardis, A., Vezzani, F., & <strong>Di Nunzio, G. M.</strong>"
+pub-venue: "mediAzioni"
+pub-details: "vol. 47, pp. A214-A234"
+pub-doi: "10.6092/issn.1974-4382/22595"
+pub-url: "https://mediazioni.unibo.it/article/view/22595"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors">Bernardis, A., Vezzani, F., & <strong>Di Nunzio, G. M.</strong></p>
+
+<p class="nw-pub-venue"><em>mediAzioni</em>, vol. 47, pp. A214-A234</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [DOI](https://doi.org/10.6092/issn.1974-4382/22595){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}

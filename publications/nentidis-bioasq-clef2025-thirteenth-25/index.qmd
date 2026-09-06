@@ -1,0 +1,21 @@
+---
+title: "BioASQ at CLEF2025: The Thirteenth Edition of the Large-Scale Biomedical Semantic Indexing and Question Answering Challenge"
+date: "2025"
+description-meta: "During the last twelve years, the large-scale biomedical semantic indexing and question-answering challenge (BioASQ) has been pushing towards the continuous advancement of methods and tools to accelerate access to the ever-increasing scientific resources of the biomedical domain. In this direction, each year, BioASQ organizes shared tasks representing the real information needs of biomedical experts and provides respective benchmark datasets. This way, it provides a unique common testbed where research teams around the world can test and compare new approaches for accessing biomedical knowledge."
+categories: ["Conference Paper"]
+pub-authors: "Nentidis, A., Katsimpras, G., Krithara, A., Krallinger, M., Ortega, M. R., Loukachevitch, N., Sakhovskiy, A., Tutubalina, E., Tsoumakas, G., Giannakoulas, G., Bekiaridou, A., Samaras, A., <strong>Di Nunzio, G. M.</strong>, Ferro, N., Marchesin, S., Menotti, L., Silvello, G., & Paliouras, G."
+pub-venue: "Advances in Information Retrieval"
+pub-details: "pp. 407-415"
+pub-doi: "10.1007/978-3-031-88720-8_61"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors">Nentidis, A., Katsimpras, G., Krithara, A., Krallinger, M., Ortega, M. R., Loukachevitch, N., Sakhovskiy, A., Tutubalina, E., Tsoumakas, G., Giannakoulas, G., Bekiaridou, A., Samaras, A., <strong>Di Nunzio, G. M.</strong>, Ferro, N., Marchesin, S., Menotti, L., Silvello, G., & Paliouras, G.</p>
+
+<p class="nw-pub-venue"><em>Advances in Information Retrieval</em>, pp. 407-415</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [DOI](https://doi.org/10.1007/978-3-031-88720-8_61){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}
+
+## Abstract
+
+During the last twelve years, the large-scale biomedical semantic indexing and question-answering challenge (BioASQ) has been pushing towards the continuous advancement of methods and tools to accelerate access to the ever-increasing scientific resources of the biomedical domain. In this direction, each year, BioASQ organizes shared tasks representing the real information needs of biomedical experts and provides respective benchmark datasets. This way, it provides a unique common testbed where research teams around the world can test and compare new approaches for accessing biomedical knowledge.

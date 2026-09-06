@@ -1,0 +1,17 @@
+---
+title: "One Size Fits All: A Conceptual Data Model for Any Approach to Terminology"
+date: "2021/12/13"
+description-meta: "In this paper, we want to speculate about the possibility to model all the currently known/proposed approaches to terminology into a single schema. We will use the Entity-Relationship (ER) diagram as our tool for the conceptual data model of the problem and to express the associations between the objects of the study. We will analyse the onomasiological and semasiological approaches, the ontoterminology paradigm, and the frame-based model, and we will draw the consequences in terms of the conceptual data model. The result of this discussion will be used as the basis of the next step of the data organization in terms of standardized terminological records and Linked Data."
+categories: ["Other"]
+pub-authors: "<strong>Di Nunzio, G. M.</strong> & Vezzani, F."
+pub-url: "https://arxiv.org/abs/2112.06562v1"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors"><strong>Di Nunzio, G. M.</strong> & Vezzani, F.</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [Source](https://arxiv.org/abs/2112.06562v1){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}
+
+## Abstract
+
+In this paper, we want to speculate about the possibility to model all the currently known/proposed approaches to terminology into a single schema. We will use the Entity-Relationship (ER) diagram as our tool for the conceptual data model of the problem and to express the associations between the objects of the study. We will analyse the onomasiological and semasiological approaches, the ontoterminology paradigm, and the frame-based model, and we will draw the consequences in terms of the conceptual data model. The result of this discussion will be used as the basis of the next step of the data organization in terms of standardized terminological records and Linked Data.

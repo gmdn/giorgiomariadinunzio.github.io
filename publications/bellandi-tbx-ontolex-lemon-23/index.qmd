@@ -1,0 +1,16 @@
+---
+title: "From TBX to Ontolex Lemon: Issues and Desiderata"
+date: "2023-06-29"
+categories: ["Conference Paper"]
+pub-authors: "Bellandi, A., Nunzio, G. M. D., Piccini, S., & Vezzani, F."
+pub-venue: "Proceedings of the 2nd International Conference on Multilingual Digital Terminology Today (MDTT 2023)"
+pub-details: "vol. 3427"
+pub-url: "https://ceur-ws.org/Vol-3427/#paper4"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors">Bellandi, A., Nunzio, G. M. D., Piccini, S., & Vezzani, F.</p>
+
+<p class="nw-pub-venue"><em>Proceedings of the 2nd International Conference on Multilingual Digital Terminology Today (MDTT 2023)</em>, vol. 3427</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [Source](https://ceur-ws.org/Vol-3427/#paper4){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}

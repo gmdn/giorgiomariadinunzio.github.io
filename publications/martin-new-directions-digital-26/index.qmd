@@ -1,0 +1,14 @@
+---
+title: "New Directions in Digital Terminology Research"
+date: "2026-04-20"
+categories: ["Book Chapter"]
+pub-authors: "Martín, A. S., Faber, P., Cárdenas, B. S., Vezzani, F., & <strong>Di Nunzio, G. M.</strong>"
+pub-venue: "New Directions in Digital Terminology Research"
+pub-url: "https://brill.com/display/title/73396"
+---
+
+<p class="nw-pub-authors">Martín, A. S., Faber, P., Cárdenas, B. S., Vezzani, F., & <strong>Di Nunzio, G. M.</strong></p>
+
+<p class="nw-pub-venue"><em>New Directions in Digital Terminology Research</em></p>
+
+[Source](https://brill.com/display/title/73396){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}

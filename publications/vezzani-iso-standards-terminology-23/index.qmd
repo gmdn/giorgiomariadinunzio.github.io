@@ -1,0 +1,22 @@
+---
+title: "ISO standards for terminology resources management: Are they FAIR enough?"
+date: "2023/12/15"
+description-meta: "Abstract The ‘FAIR terminology’ paradigm is the first initiative that aims to establish a strong interrelation between the FAIR (Findability, Accessibility, Interoperability, and Reusability) principles, promoted at the European level to foster the Open Science movement, and the specifications advocated in the framework of ISO TC 37/SC 3 about the management of terminology resources. Through the complementary adoption of the SC 3 standards, the paradigm, therefore, proposes guidelines paving the way for the FAIRification of terminological data, metadata, and infrastructure. In this context, this study has a threefold objective. First, we will show the impact of three ISO TC 37/SC 3 standards (mainly ISO 16642: 2017; ISO 12620: 2019 and ISO 30042: 2019) for the foundation of the FAIR terminology paradigm. Secondly, we will present the integration of this data representation model in the framework of the European project ‘Terminology Without Borders’ (TWB) launched in 2019 by the Terminology Coordination Unit (TermCoord) of the European Parliament. Finally, we intend to reflect in a critical perspective to highlight some possible limitations of the previously mentioned SC 3 standards in terms of FAIRification of terminological data."
+categories: ["Journal Article"]
+pub-authors: "Vezzani, F., <strong>Di Nunzio, G. M.</strong>, & Costa, R."
+pub-venue: "Digital Translation"
+pub-details: "vol. 10, no. 2, pp. 233-252"
+pub-doi: "10.1075/dt.00009.vez"
+pub-url: "https://www.jbe-platform.com/content/journals/10.1075/dt.00009.vez"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors">Vezzani, F., <strong>Di Nunzio, G. M.</strong>, & Costa, R.</p>
+
+<p class="nw-pub-venue"><em>Digital Translation</em>, vol. 10, no. 2, pp. 233-252</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [DOI](https://doi.org/10.1075/dt.00009.vez){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}
+
+## Abstract
+
+Abstract The ‘FAIR terminology’ paradigm is the first initiative that aims to establish a strong interrelation between the FAIR (Findability, Accessibility, Interoperability, and Reusability) principles, promoted at the European level to foster the Open Science movement, and the specifications advocated in the framework of ISO TC 37/SC 3 about the management of terminology resources. Through the complementary adoption of the SC 3 standards, the paradigm, therefore, proposes guidelines paving the way for the FAIRification of terminological data, metadata, and infrastructure. In this context, this study has a threefold objective. First, we will show the impact of three ISO TC 37/SC 3 standards (mainly ISO 16642: 2017; ISO 12620: 2019 and ISO 30042: 2019) for the foundation of the FAIR terminology paradigm. Secondly, we will present the integration of this data representation model in the framework of the European project ‘Terminology Without Borders’ (TWB) launched in 2019 by the Terminology Coordination Unit (TermCoord) of the European Parliament. Finally, we intend to reflect in a critical perspective to highlight some possible limitations of the previously mentioned SC 3 standards in terms of FAIRification of terminological data.

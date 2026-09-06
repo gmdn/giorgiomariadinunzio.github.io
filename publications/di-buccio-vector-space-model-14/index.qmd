@@ -1,0 +1,21 @@
+---
+title: "A Vector Space Model for Syntactic Distances Between Dialects"
+date: "2014-05"
+description-meta: "Syntactic comparison across languages is essential in the research field of linguistics, e.g. when investigating the relationship among closely related languages. In IR and NLP, the syntactic information is used to understand the meaning of word occurrences according to the context in which their appear. In this paper, we discuss a mathematical framework to compute the distance between languages based on the data available in current state-of-the-art linguistic databases. This framework is inspired by approaches presented in IR and NLP."
+categories: ["Conference Paper"]
+pub-authors: "Di Buccio, E., <strong>Di Nunzio, G. M.</strong>, & Silvello, G."
+pub-venue: "Proceedings of the Ninth International Conference on Language Resources and Evaluation (LREC'14)"
+pub-details: "pp. 2486–2489"
+pub-url: "https://aclanthology.org/L14-1148/"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors">Di Buccio, E., <strong>Di Nunzio, G. M.</strong>, & Silvello, G.</p>
+
+<p class="nw-pub-venue"><em>Proceedings of the Ninth International Conference on Language Resources and Evaluation (LREC'14)</em>, pp. 2486–2489</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [Source](https://aclanthology.org/L14-1148/){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}
+
+## Abstract
+
+Syntactic comparison across languages is essential in the research field of linguistics, e.g. when investigating the relationship among closely related languages. In IR and NLP, the syntactic information is used to understand the meaning of word occurrences according to the context in which their appear. In this paper, we discuss a mathematical framework to compute the distance between languages based on the data available in current state-of-the-art linguistic databases. This framework is inspired by approaches presented in IR and NLP.

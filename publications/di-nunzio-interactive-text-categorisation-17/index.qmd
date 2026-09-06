@@ -1,0 +1,21 @@
+---
+title: "Interactive Text Categorisation: The Geometry of Likelihood Spaces"
+date: "2017"
+description-meta: "In this chapter we present a two-dimensional representation of probabilities called likelihood spaces. In particular, we show the geometrical properties of Bayes’ rule when projected into this two-dimensional space and extend this concept to Naïve Bayes classifiers. We apply this geometrical interpretation to a real machine learning problem of text categorisation and present a Web application that implements all the concepts on a standard text categorisation benchmark."
+categories: ["Book Chapter"]
+pub-authors: "<strong>Di Nunzio, G. M.</strong>"
+pub-venue: "Information Filtering and Retrieval: DART 2014: Revised and Invited Papers"
+pub-details: "pp. 13-34"
+pub-doi: "10.1007/978-3-319-46135-9_2"
+pub-url: "https://doi.org/10.1007/978-3-319-46135-9_2"
+---
+
+<p class="nw-pub-authors"><strong>Di Nunzio, G. M.</strong></p>
+
+<p class="nw-pub-venue"><em>Information Filtering and Retrieval: DART 2014: Revised and Invited Papers</em>, pp. 13-34</p>
+
+[DOI](https://doi.org/10.1007/978-3-319-46135-9_2){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}
+
+## Abstract
+
+In this chapter we present a two-dimensional representation of probabilities called likelihood spaces. In particular, we show the geometrical properties of Bayes’ rule when projected into this two-dimensional space and extend this concept to Naïve Bayes classifiers. We apply this geometrical interpretation to a real machine learning problem of text categorisation and present a Web application that implements all the concepts on a standard text categorisation benchmark.

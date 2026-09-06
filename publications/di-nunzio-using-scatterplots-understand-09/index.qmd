@@ -1,0 +1,22 @@
+---
+title: "Using scatterplots to understand and improve probabilistic models for text categorization and retrieval"
+date: "2009-07-01"
+description-meta: "The two-dimensional representation of documents which allows documents to be represented in a two-dimensional Cartesian plane has proved to be a valid visualization tool for Automated Text Categorization (ATC) for understanding the relationships between categories of textual documents, and to help users to visually audit the classifier and identify suspicious training data. This paper analyzes a specific use of this visualization approach in the case of the Naive Bayes (NB) model for text classification and the Binary Independence Model (BIM) for text retrieval. For text categorization, a reformulation of the equation for the decision of classification has to be written in such a way that each coordinate of a document is the sum of two addends: a variable component P(d|ci), and a constant component P(ci), the prior of the category. When plotted in the Cartesian plane according to this formulation, the documents that are constantly shifted along the x-axis and the y-axis can be seen. This effect of shifting is more or less evident according to which NB model, Bernoulli or multinomial, is chosen. For text retrieval, the same reformulation can be applied in the case of the BIM model. The visualization helps to understand the decisions that are taken to order the documents, in particular in the case of relevance feedback."
+categories: ["Journal Article"]
+pub-authors: "<strong>Di Nunzio, G. M.</strong>"
+pub-venue: "International Journal of Approximate Reasoning"
+pub-details: "vol. 50, no. 7, pp. 945-956"
+pub-doi: "10.1016/j.ijar.2009.01.002"
+pub-url: "https://www.sciencedirect.com/science/article/pii/S0888613X09000036"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors"><strong>Di Nunzio, G. M.</strong></p>
+
+<p class="nw-pub-venue"><em>International Journal of Approximate Reasoning</em>, vol. 50, no. 7, pp. 945-956</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [DOI](https://doi.org/10.1016/j.ijar.2009.01.002){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}
+
+## Abstract
+
+The two-dimensional representation of documents which allows documents to be represented in a two-dimensional Cartesian plane has proved to be a valid visualization tool for Automated Text Categorization (ATC) for understanding the relationships between categories of textual documents, and to help users to visually audit the classifier and identify suspicious training data. This paper analyzes a specific use of this visualization approach in the case of the Naive Bayes (NB) model for text classification and the Binary Independence Model (BIM) for text retrieval. For text categorization, a reformulation of the equation for the decision of classification has to be written in such a way that each coordinate of a document is the sum of two addends: a variable component P(d|ci), and a constant component P(ci), the prior of the category. When plotted in the Cartesian plane according to this formulation, the documents that are constantly shifted along the x-axis and the y-axis can be seen. This effect of shifting is more or less evident according to which NB model, Bernoulli or multinomial, is chosen. For text retrieval, the same reformulation can be applied in the case of the BIM model. The visualization helps to understand the decisions that are taken to order the documents, in particular in the case of relevance feedback.

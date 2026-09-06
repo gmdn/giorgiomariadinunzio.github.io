@@ -1,0 +1,16 @@
+---
+title: "Overview of iDPP@CLEF 2024: The Intelligent Disease Progression Prediction Challenge"
+date: "2024-09-09"
+categories: ["Conference Paper"]
+pub-authors: "Birolo, G., Bosoni, P., Faggioli, G., Aidos, H., Bergamaschi, R., Cavalla, P., Chiò, A., Dagliati, A., Carvalho, M. D., Nunzio, G. M. D., Fariselli, P., Dominguez, J. M. G., Gromicho, M., Guazzo, A., Longato, E., Madeira, S. C., Manera, U., Marchesin, S., Menotti, L., Silvello, G., Tavazzi, E., Tavazzi, E., Trescato, I., Vettoretti, M., Camillo, B. D., & Ferro, N."
+pub-venue: "Working Notes of the Conference and Labs of the Evaluation Forum (CLEF 2024)"
+pub-details: "vol. 3740, pp. 1312-1331"
+pub-url: "https://ceur-ws.org/Vol-3740/#paper-122"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors">Birolo, G., Bosoni, P., Faggioli, G., Aidos, H., Bergamaschi, R., Cavalla, P., Chiò, A., Dagliati, A., Carvalho, M. D., Nunzio, G. M. D., Fariselli, P., Dominguez, J. M. G., Gromicho, M., Guazzo, A., Longato, E., Madeira, S. C., Manera, U., Marchesin, S., Menotti, L., Silvello, G., Tavazzi, E., Tavazzi, E., Trescato, I., Vettoretti, M., Camillo, B. D., & Ferro, N.</p>
+
+<p class="nw-pub-venue"><em>Working Notes of the Conference and Labs of the Evaluation Forum (CLEF 2024)</em>, vol. 3740, pp. 1312-1331</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [Source](https://ceur-ws.org/Vol-3740/#paper-122){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}

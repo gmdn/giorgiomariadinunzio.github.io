@@ -1,0 +1,12 @@
+---
+title: "Proceedings of the Workshop on DeTermIt! Evaluating Text Difficulty in a Multilingual Context @ LREC-COLING 2024"
+date: "2024-05"
+categories: ["Book"]
+pub-venue: "ELRA and ICCL"
+pub-url: "https://aclanthology.org/2024.determit-1.0"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-venue"><em>ELRA and ICCL</em></p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [Source](https://aclanthology.org/2024.determit-1.0){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}

@@ -1,0 +1,16 @@
+---
+title: "Benchmarking Automatic Tools for Neologisms Extraction: Issues and Challenges"
+date: "2025-06-18"
+categories: ["Conference Paper"]
+pub-authors: "<strong>Di Nunzio, G. M.</strong>"
+pub-venue: "Proceedings of the 1st International Workshop on Terminological Neologism Management (NeoTerm 2025)"
+pub-details: "vol. 3972"
+pub-url: "https://ceur-ws.org/Vol-3972/#paper7"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors"><strong>Di Nunzio, G. M.</strong></p>
+
+<p class="nw-pub-venue"><em>Proceedings of the 1st International Workshop on Terminological Neologism Management (NeoTerm 2025)</em>, vol. 3972</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [Source](https://ceur-ws.org/Vol-3972/#paper7){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}

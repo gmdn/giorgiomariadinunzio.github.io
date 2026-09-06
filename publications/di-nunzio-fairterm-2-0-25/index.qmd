@@ -1,0 +1,22 @@
+---
+title: "FAIRterm 2.0: Towards FAIR Terminologies Resources for EOSC"
+date: "2025-09"
+description-meta: "This paper presents the roadmap from FAIRterm 2.0 to initiatives which outline a strategic shift toward the integration of terminological and lexicographical resources in compliance with FAIR principles. While FAIRterm 2.0 currently operates within XML-based ISO standards dedicated to terminology management, it sets the foundation for future interoperability with Linguistic Linked Open Data models such as OntoLex-Lemon. We highlight ongoing efforts to bridge terminological practices and Semantic Web standards, including prototype tools for TBX-to-OntoLex translation. This work responds to emerging demands for multilingual, interoperable, and semantically rich knowledge infrastructure within EOSC, building upon recent research advocating for the convergence of lexical and terminological systems."
+categories: ["Conference Paper"]
+pub-authors: "<strong>Di Nunzio, G. M.</strong> & Vezzani, F."
+pub-venue: "2025 IEEE International Conference on Cyber Humanities (IEEE-CH)"
+pub-details: "pp. 1-7"
+pub-doi: "10.1109/IEEE-CH65308.2025.11279689"
+pub-url: "https://ieeexplore.ieee.org/document/11279689/"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors"><strong>Di Nunzio, G. M.</strong> & Vezzani, F.</p>
+
+<p class="nw-pub-venue"><em>2025 IEEE International Conference on Cyber Humanities (IEEE-CH)</em>, pp. 1-7</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [DOI](https://doi.org/10.1109/IEEE-CH65308.2025.11279689){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}
+
+## Abstract
+
+This paper presents the roadmap from FAIRterm 2.0 to initiatives which outline a strategic shift toward the integration of terminological and lexicographical resources in compliance with FAIR principles. While FAIRterm 2.0 currently operates within XML-based ISO standards dedicated to terminology management, it sets the foundation for future interoperability with Linguistic Linked Open Data models such as OntoLex-Lemon. We highlight ongoing efforts to bridge terminological practices and Semantic Web standards, including prototype tools for TBX-to-OntoLex translation. This work responds to emerging demands for multilingual, interoperable, and semantically rich knowledge infrastructure within EOSC, building upon recent research advocating for the convergence of lexical and terminological systems.

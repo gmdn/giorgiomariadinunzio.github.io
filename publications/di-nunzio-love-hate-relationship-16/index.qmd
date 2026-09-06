@@ -1,0 +1,14 @@
+---
+title: "A Love-Hate Relationship for Big Data and Linguistics: Present Issues and Future Possibilities."
+date: "2016"
+categories: ["Conference Paper"]
+pub-authors: "<strong>Di Nunzio, G. M.</strong> & Poletto, C."
+pub-venue: "Proceedings of the First International Workshop on Accessing Cultural Heritage at Scale co-located with Joint Conference on Digital Libraries 2016 (JCDL 2016), Newark, USA, June 22, 2016."
+pub-url: "https://ceur-ws.org/Vol-1611/paper3.pdf"
+---
+
+<p class="nw-pub-authors"><strong>Di Nunzio, G. M.</strong> & Poletto, C.</p>
+
+<p class="nw-pub-venue"><em>Proceedings of the First International Workshop on Accessing Cultural Heritage at Scale co-located with Joint Conference on Digital Libraries 2016 (JCDL 2016), Newark, USA, June 22, 2016.</em></p>
+
+[Source](https://ceur-ws.org/Vol-1611/paper3.pdf){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}

@@ -1,0 +1,22 @@
+---
+title: "Early Recall Estimation and Stopping in Technology-Assisted Reviews via Ranker-Sampler Fusion"
+date: "May 28, 2026"
+description-meta: "Technology-Assisted Review (TAR) workflows iteratively prioritize documents for expert screening to achieve high recall (e.g., 0.90--0.95) under limited time and budget. A persistent challenge is deciding when to stop: true recall is unknown during live screening unless all documents are judged, while additional sampling to estimate recall can be prohibitively costly at low prevalence. This paper develops a step-by-step statistical framework to estimate recall early by fusing (i) information from a ranking model and (ii) a small probability sample of documents. We present two complementary estimators: a Bayesian prevalence estimator that treats the ranker as an informative prior updated by a random sample, and a model-assisted estimator (generalized regression estimator with a Horvitz-Thompson residual correction) that combines calibrated ranker probabilities with design-based sampling adjustments. We then derive practical stopping rules based on conservative (lower-bound) recall estimates, and outline a future evaluation plan on established constrained high-recall benchmarks."
+categories: ["Conference Paper"]
+pub-authors: "<strong>Di Nunzio, G. M.</strong>"
+pub-venue: "Companion Proceedings of the ACM Web Conference 2026"
+pub-details: "pp. 333–340"
+pub-doi: "10.1145/3774905.3795598"
+pub-url: "https://dl.acm.org/doi/10.1145/3774905.3795598"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors"><strong>Di Nunzio, G. M.</strong></p>
+
+<p class="nw-pub-venue"><em>Companion Proceedings of the ACM Web Conference 2026</em>, pp. 333–340</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [DOI](https://doi.org/10.1145/3774905.3795598){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}
+
+## Abstract
+
+Technology-Assisted Review (TAR) workflows iteratively prioritize documents for expert screening to achieve high recall (e.g., 0.90--0.95) under limited time and budget. A persistent challenge is deciding when to stop: true recall is unknown during live screening unless all documents are judged, while additional sampling to estimate recall can be prohibitively costly at low prevalence. This paper develops a step-by-step statistical framework to estimate recall early by fusing (i) information from a ranking model and (ii) a small probability sample of documents. We present two complementary estimators: a Bayesian prevalence estimator that treats the ranker as an informative prior updated by a random sample, and a model-assisted estimator (generalized regression estimator with a Horvitz-Thompson residual correction) that combines calibrated ranker probabilities with design-based sampling adjustments. We then derive practical stopping rules based on conservative (lower-bound) recall estimates, and outline a future evaluation plan on established constrained high-recall benchmarks.

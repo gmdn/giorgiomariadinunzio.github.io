@@ -1,0 +1,20 @@
+---
+title: "A new framework for annotating complex terminological structures"
+date: "2026-08-31"
+description-meta: "A new open-access paper introduces a fragment-based model and Annotaterm, a web environment for annotating contiguous, discontinuous, and overlapping terms."
+categories:
+  - Computational Terminology
+  - Text Annotation
+  - Research Software
+linkedin: "https://www.linkedin.com/posts/giorgio-maria-di-nunzio_terminology-textannotation-digitallibraries-activity-7490322376740556800-wIAE"
+---
+
+A new open-access paper, **“A fragment-based model and annotation environment for discontinuous and overlapping terms”**, presents a framework for representing complex terminological structures as unified and directly inspectable annotation objects.
+
+The work originated from a concrete annotation problem discussed during the preparation of the **ATE-IT 2026** challenge at EVALITA: how to represent terms that are discontinuous, overlap with one another, or share textual components. The resulting fragment-based model provides a common representation for contiguous, discontinuous, and overlapping terms.
+
+The paper also introduces **Annotaterm**, a lightweight web-based environment supporting the annotation, visualization, editing, and export of these structures.
+
+Developed in the context of the **HEREDITARY** project, this work has subsequently contributed to a broader modular framework for the annotation and curation of cultural heritage texts, to be presented at **IEEE-CH 2026**.
+
+[Read the original post on LinkedIn →](https://www.linkedin.com/posts/giorgio-maria-di-nunzio_terminology-textannotation-digitallibraries-activity-7490322376740556800-wIAE)

@@ -1,0 +1,21 @@
+---
+title: "Exploring Historical Routes and Waypoints with MICOLL Digital Map"
+date: "2024"
+description-meta: "This work presents the MICOLL digital map, a web-based application for searching for historical routes and waypoints in the context of the ERC project “Migrating Commercial Law and Language (MICOLL). Rethinking Lex Mercatoria”. The MICOLL digital map is an ongoing project that aims to allow historians and experts to easily search and discover the historical routes, used for exchanging goods and information, that connected European cities during the 11th-17th centuries. The final goal is to show their evolution over time by linking historical information to spatial waypoints and enabling a visual and interactive consultation over a digital map."
+categories: ["Conference Paper"]
+pub-authors: "Giachelle, F., Dyble, J., <strong>Di Nunzio, G. M.</strong>, & Gialdroni, S."
+pub-venue: "Linking Theory and Practice of Digital Libraries"
+pub-details: "pp. 141-150"
+pub-doi: "10.1007/978-3-031-72440-4_14"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors">Giachelle, F., Dyble, J., <strong>Di Nunzio, G. M.</strong>, & Gialdroni, S.</p>
+
+<p class="nw-pub-venue"><em>Linking Theory and Practice of Digital Libraries</em>, pp. 141-150</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [DOI](https://doi.org/10.1007/978-3-031-72440-4_14){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}
+
+## Abstract
+
+This work presents the MICOLL digital map, a web-based application for searching for historical routes and waypoints in the context of the ERC project “Migrating Commercial Law and Language (MICOLL). Rethinking Lex Mercatoria”. The MICOLL digital map is an ongoing project that aims to allow historians and experts to easily search and discover the historical routes, used for exchanging goods and information, that connected European cities during the 11th-17th centuries. The final goal is to show their evolution over time by linking historical information to spatial waypoints and enabling a visual and interactive consultation over a digital map.

@@ -1,0 +1,16 @@
+---
+title: "Terminology Extraction in Electronic Health Records. The ExaMode Project (poster)"
+date: "2022-06-16"
+categories: ["Conference Paper"]
+pub-authors: "<strong>Di Nunzio, G. M.</strong>, Marchesin, S., & Silvello, G."
+pub-venue: "Proceedings of the 1st International Conference on Multilingual Digital Terminology Today"
+pub-details: "vol. 3161"
+pub-url: "https://ceur-ws.org/Vol-3161/#poster1"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors"><strong>Di Nunzio, G. M.</strong>, Marchesin, S., & Silvello, G.</p>
+
+<p class="nw-pub-venue"><em>Proceedings of the 1st International Conference on Multilingual Digital Terminology Today</em>, vol. 3161</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [Source](https://ceur-ws.org/Vol-3161/#poster1){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}

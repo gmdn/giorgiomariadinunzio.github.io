@@ -1,0 +1,22 @@
+---
+title: "News"
+description: "News, announcements, and updates on research, projects, teaching, and events."
+page-layout: full
+toc: false
+comments: false
+listing:
+  id: all-news
+  contents: "*/index.qmd"
+  sort: "date desc"
+  template: ../_ejs/post-row.ejs
+include-after-body:
+  - text: |
+      <script src="../assets/home.js"></script>
+---
+
+<div class="nw-filters" data-nw-filter-for="all-news" data-nw-filter-noun="news items"></div>
+
+<h2 class="visually-hidden">All news</h2>
+
+::: {#all-news .nw-posts}
+:::

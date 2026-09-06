@@ -1,0 +1,21 @@
+---
+title: "Legal Science and Compute Science: A Preliminary Discussions on How to Represent the “Penumbra” Cone with AI"
+date: "2024-05"
+description-meta: "Legal science encounters significant challenges with the widespread integration of AI software across various legal operations. The distinction between signs, senses, and references from a linguistic point of view, as drawn by Gottlob Frege, underscores the complexity of legal language, especially in multilingual contexts like the European Union. In this paper, we describe the problems of legal terminology, examining the “penumbra” problem through Herbert Hart's legal theory of meaning. We also analyze the feasibility of training automatic systems to handle conflicts between different interpretations of legal norms, particularly in multilingual legal systems. By examining the transformative impact of Artificial Intelligence on traditional legal practices, this research contributes to the theoretical discussion about the exploration of innovative methodologies for simplifying complex terminologies without compromising meaning."
+categories: ["Conference Paper"]
+pub-authors: "Condello, A. & <strong>Di Nunzio, G. M.</strong>"
+pub-venue: "Proceedings of the Workshop on DeTermIt! Evaluating Text Difficulty in a Multilingual Context @ LREC-COLING 2024"
+pub-details: "pp. 179–184"
+pub-url: "https://aclanthology.org/2024.determit-1.16"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors">Condello, A. & <strong>Di Nunzio, G. M.</strong></p>
+
+<p class="nw-pub-venue"><em>Proceedings of the Workshop on DeTermIt! Evaluating Text Difficulty in a Multilingual Context @ LREC-COLING 2024</em>, pp. 179–184</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [Source](https://aclanthology.org/2024.determit-1.16){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}
+
+## Abstract
+
+Legal science encounters significant challenges with the widespread integration of AI software across various legal operations. The distinction between signs, senses, and references from a linguistic point of view, as drawn by Gottlob Frege, underscores the complexity of legal language, especially in multilingual contexts like the European Union. In this paper, we describe the problems of legal terminology, examining the “penumbra” problem through Herbert Hart's legal theory of meaning. We also analyze the feasibility of training automatic systems to handle conflicts between different interpretations of legal norms, particularly in multilingual legal systems. By examining the transformative impact of Artificial Intelligence on traditional legal practices, this research contributes to the theoretical discussion about the exploration of innovative methodologies for simplifying complex terminologies without compromising meaning.

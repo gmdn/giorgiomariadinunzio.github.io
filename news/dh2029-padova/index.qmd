@@ -1,0 +1,17 @@
+---
+title: "Digital Humanities 2029 will be held in Padova"
+date: "2026-08-31"
+description-meta: "Padova has been selected to host the Digital Humanities 2029 conference."
+categories:
+  - Conference
+  - Digital Humanities
+linkedin: "https://www.linkedin.com/posts/giorgio-maria-di-nunzio_dh2029-digitalhumanities-adho-activity-7490435812573081601-vg2B"
+---
+
+The **University of Padua has been selected to host Digital Humanities 2029 (DH2029)**. The announcement was made by the Alliance of Digital Humanities Organizations (ADHO) during DH2026 in Daejeon, South Korea.
+
+The successful bid was the result of a broad collaborative effort involving the University of Padua, AIUCD, and colleagues from the Italian and international Digital Humanities communities.
+
+DH2029 will bring the international Digital Humanities community to Padua to discuss topics including cultural heritage, multilingual knowledge infrastructures, open science, artificial intelligence, and digital scholarship.
+
+[Read the original post on LinkedIn →](https://www.linkedin.com/posts/giorgio-maria-di-nunzio_dh2029-digitalhumanities-adho-activity-7490435812573081601-vg2B)

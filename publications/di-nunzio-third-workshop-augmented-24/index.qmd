@@ -1,0 +1,21 @@
+---
+title: "Third Workshop on Augmented Intelligence in Technology-Assisted Review Systems (ALTARS)"
+date: "2024"
+description-meta: "In this third edition of the workshop on Augmented Intelligence in Technology-Assisted Review Systems (ALTARS), we focus on the capacity of building test collections for the evaluation of High-recall Information Retrieval (IR) systems which tackle challenging tasks that require the finding of (nearly) all the relevant documents in a collection. During the workshop, the organizers as well as the participants will discuss the problems of how to build and evaluate these types of systems and prepare a set of guidelines for a correct evaluation of those systems according to the current and future available datasets."
+categories: ["Conference Paper"]
+pub-authors: "<strong>Di Nunzio, G. M.</strong>, Kanoulas, E., & Majumder, P."
+pub-venue: "Advances in Information Retrieval"
+pub-details: "pp. 432-436"
+pub-doi: "10.1007/978-3-031-56069-9_59"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors"><strong>Di Nunzio, G. M.</strong>, Kanoulas, E., & Majumder, P.</p>
+
+<p class="nw-pub-venue"><em>Advances in Information Retrieval</em>, pp. 432-436</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [DOI](https://doi.org/10.1007/978-3-031-56069-9_59){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}
+
+## Abstract
+
+In this third edition of the workshop on Augmented Intelligence in Technology-Assisted Review Systems (ALTARS), we focus on the capacity of building test collections for the evaluation of High-recall Information Retrieval (IR) systems which tackle challenging tasks that require the finding of (nearly) all the relevant documents in a collection. During the workshop, the organizers as well as the participants will discuss the problems of how to build and evaluate these types of systems and prepare a set of guidelines for a correct evaluation of those systems according to the current and future available datasets.

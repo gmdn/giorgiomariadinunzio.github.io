@@ -1,0 +1,22 @@
+---
+title: "Understanding user requirements and preferences for a digital library Web portal"
+date: "2010-12-01"
+description-meta: "This article reports the findings of a user study conducted in the context of the TELplus project to gain insights about user needs and preferences for the digital library services offered by The European Library Web portal. The user requirements collection for the Web portal was designed by adopting a comprehensive survey approach. This combined explicit user feedback with implicit usage data so as to provide a more in-depth analysis of user experience with the portal. The analysis conducted shed light on likely motivations for both participant usage and reluctance to use the services provided, leading to more informed decisions on how to refine, improve, and present Web portal services to their future users. The lessons learnt from this case study also contributed to the development of an integrated methodological framework which provided insights for the future design and evaluation of digital library Web portals and services."
+categories: ["Journal Article"]
+pub-authors: "Agosti, M., Crivellari, F., <strong>Di Nunzio, G. M.</strong>, & Gabrielli, S."
+pub-venue: "International Journal on Digital Libraries"
+pub-details: "vol. 11, no. 4, pp. 225-238"
+pub-doi: "10.1007/s00799-011-0075-7"
+pub-url: "https://doi.org/10.1007/s00799-011-0075-7"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors">Agosti, M., Crivellari, F., <strong>Di Nunzio, G. M.</strong>, & Gabrielli, S.</p>
+
+<p class="nw-pub-venue"><em>International Journal on Digital Libraries</em>, vol. 11, no. 4, pp. 225-238</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [DOI](https://doi.org/10.1007/s00799-011-0075-7){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}
+
+## Abstract
+
+This article reports the findings of a user study conducted in the context of the TELplus project to gain insights about user needs and preferences for the digital library services offered by The European Library Web portal. The user requirements collection for the Web portal was designed by adopting a comprehensive survey approach. This combined explicit user feedback with implicit usage data so as to provide a more in-depth analysis of user experience with the portal. The analysis conducted shed light on likely motivations for both participant usage and reluctance to use the services provided, leading to more informed decisions on how to refine, improve, and present Web portal services to their future users. The lessons learnt from this case study also contributed to the development of an integrated methodological framework which provided insights for the future design and evaluation of digital library Web portals and services.

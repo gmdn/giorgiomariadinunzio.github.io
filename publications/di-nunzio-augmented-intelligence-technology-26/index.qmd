@@ -1,0 +1,22 @@
+---
+title: "Augmented Intelligence in Technology-Assisted Review Systems (ALTARS 2026)"
+date: "May 28, 2026"
+description-meta: "The ALTARS 2026 workshop explores recent advances and open challenges in Technology-Assisted Review (TAR) systems and their application to large-scale, high-recall retrieval across the Web. TAR systems, originally designed for domains such as legal discovery and systematic literature review, are now increasingly relevant to Web environments characterized by heterogeneous, dynamic, and multilingual information. As the Web continues to expand through user-generated and AI-produced content, ensuring transparency, reliability, and fairness in automated review processes has become a central research challenge. This workshop aims to bring together researchers and practitioners from information retrieval, Web science, artificial intelligence, and data governance to discuss how TAR methodologies can support trustworthy and scalable information access. Topics include intelligent retrieval, human-in-the-loop learning, explainable and responsible AI, and the integration of large language models and knowledge graphs in review workflows. Through paper presentations, keynotes, and interactive sessions, ALTARS 2026 seeks to foster interdisciplinary collaboration and to identify future directions for developing transparent, fair, and adaptive Web-scale review systems."
+categories: ["Conference Paper"]
+pub-authors: "<strong>Di Nunzio, G. M.</strong>, Kanoulas, E., & Majumder, P."
+pub-venue: "Companion Proceedings of the ACM Web Conference 2026"
+pub-details: "pp. 330–332"
+pub-doi: "10.1145/3774905.3795597"
+pub-url: "https://dl.acm.org/doi/10.1145/3774905.3795597"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors"><strong>Di Nunzio, G. M.</strong>, Kanoulas, E., & Majumder, P.</p>
+
+<p class="nw-pub-venue"><em>Companion Proceedings of the ACM Web Conference 2026</em>, pp. 330–332</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [DOI](https://doi.org/10.1145/3774905.3795597){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}
+
+## Abstract
+
+The ALTARS 2026 workshop explores recent advances and open challenges in Technology-Assisted Review (TAR) systems and their application to large-scale, high-recall retrieval across the Web. TAR systems, originally designed for domains such as legal discovery and systematic literature review, are now increasingly relevant to Web environments characterized by heterogeneous, dynamic, and multilingual information. As the Web continues to expand through user-generated and AI-produced content, ensuring transparency, reliability, and fairness in automated review processes has become a central research challenge. This workshop aims to bring together researchers and practitioners from information retrieval, Web science, artificial intelligence, and data governance to discuss how TAR methodologies can support trustworthy and scalable information access. Topics include intelligent retrieval, human-in-the-loop learning, explainable and responsible AI, and the integration of large language models and knowledge graphs in review workflows. Through paper presentations, keynotes, and interactive sessions, ALTARS 2026 seeks to foster interdisciplinary collaboration and to identify future directions for developing transparent, fair, and adaptive Web-scale review systems.

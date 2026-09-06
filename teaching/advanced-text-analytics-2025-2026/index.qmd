@@ -1,0 +1,15 @@
+---
+title: "Advanced Text Analytics"
+description-meta: "Methods and resources for extracting, representing, and analysing information from text."
+academic-year: "2025/2026"
+year-start: 2025
+level: "Master Degree"
+categories:
+  - Master Degree
+program: "Computer Engineering"
+institution: "University of Padova"
+---
+
+## Course description
+
+Advanced Text Analytics is a Master's-level course in Computer Engineering focusing on text analysis and information extraction.

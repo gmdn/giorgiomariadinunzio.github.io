@@ -1,0 +1,24 @@
+---
+title: "Courses"
+description: "These are the courses I've taught over the years. Still working on it!"
+page-layout: full
+toc: false
+listing:
+  id: all-courses
+  contents: "*/index.qmd"
+  sort: "year-start desc"
+  template: ../_ejs/course-card.ejs
+include-after-body:
+  - text: |
+      <script src="../assets/home.js"></script>
+---
+
+<div class="nw-filters" data-nw-filter-for="all-courses" data-nw-filter-noun="courses"></div>
+
+<!-- The listing renders each item at heading level 3; without a level-2
+     heading between them and the page title the document skips a level.
+     Announced to screen readers, invisible on screen. -->
+<h2 class="visually-hidden">All courses</h2>
+
+::: {#all-courses .nw-courses}
+:::

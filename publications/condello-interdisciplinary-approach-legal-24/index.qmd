@@ -1,0 +1,16 @@
+---
+title: "An Interdisciplinary Approach to Legal Terminology: Challenges of the “Algorithmic Turn” in Legal Science"
+date: "2024-03-28"
+categories: ["Conference Paper"]
+pub-authors: "Condello, A. & <strong>Di Nunzio, G. M.</strong>"
+pub-venue: "Proceedings of the 3rd Workshop on Augmented Intelligence for Technology-Assisted Reviews Systems (ALTARS 2024)"
+pub-details: "vol. 3832"
+pub-url: "https://ceur-ws.org/Vol-3832/#short1"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors">Condello, A. & <strong>Di Nunzio, G. M.</strong></p>
+
+<p class="nw-pub-venue"><em>Proceedings of the 3rd Workshop on Augmented Intelligence for Technology-Assisted Reviews Systems (ALTARS 2024)</em>, vol. 3832</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [Source](https://ceur-ws.org/Vol-3832/#short1){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}

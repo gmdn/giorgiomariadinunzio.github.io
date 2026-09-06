@@ -1,0 +1,22 @@
+---
+title: "Screening Smarter, Not Harder: Budget Allocation Strategies for Technology-Assisted Reviews (TARs) in Empirical Medicine"
+date: "2025/9"
+description-meta: "In the technology-assisted review (TAR) area, most research has focused on ranking effectiveness and active learning strategies within individual topics, often assuming unconstrained review effort. However, real-world applications such as legal discovery or medical systematic reviews are frequently subject to global screening budgets. In this paper, we revisit the CLEF eHealth TAR shared tasks (2017–2019) through the lens of budget-aware evaluation. We first reproduce and verify the official participant results, organizing them into a unified dataset for comparative analysis. Then, we introduce and assess four intuitive budget allocation strategies—even, proportional, inverse proportional, and threshold-capped greedy—to explore how review effort can be efficiently distributed across topics. To evaluate systems under resource constraints, we propose two cost-aware metrics: relevant found per cost unit (RFCU) and utility gain at budget (UG@B). These complement traditional recall by explicitly modeling efficiency and trade-offs between true and false positives. Our results show that different allocation strategies optimize different metrics: even and inverse proportional allocation favor recall, while proportional and capped strategies better maximize RFCU. UG@B remains relatively stable across strategies, reflecting its balanced formulation. A correlation analysis reveals that RFCU and UG@B offer distinct perspectives from recall, with varying alignment across years. Together, these findings underscore the importance of aligning evaluation metrics and allocation strategies with screening goals. We release all data and code to support reproducibility and future research on cost-sensitive TAR."
+categories: ["Journal Article"]
+pub-authors: "<strong>Di Nunzio, G. M.</strong>"
+pub-venue: "Machine Learning and Knowledge Extraction"
+pub-details: "vol. 7, no. 3, pp. 104"
+pub-doi: "10.3390/make7030104"
+pub-url: "https://www.mdpi.com/2504-4990/7/3/104"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors"><strong>Di Nunzio, G. M.</strong></p>
+
+<p class="nw-pub-venue"><em>Machine Learning and Knowledge Extraction</em>, vol. 7, no. 3, pp. 104</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [DOI](https://doi.org/10.3390/make7030104){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}
+
+## Abstract
+
+In the technology-assisted review (TAR) area, most research has focused on ranking effectiveness and active learning strategies within individual topics, often assuming unconstrained review effort. However, real-world applications such as legal discovery or medical systematic reviews are frequently subject to global screening budgets. In this paper, we revisit the CLEF eHealth TAR shared tasks (2017–2019) through the lens of budget-aware evaluation. We first reproduce and verify the official participant results, organizing them into a unified dataset for comparative analysis. Then, we introduce and assess four intuitive budget allocation strategies—even, proportional, inverse proportional, and threshold-capped greedy—to explore how review effort can be efficiently distributed across topics. To evaluate systems under resource constraints, we propose two cost-aware metrics: relevant found per cost unit (RFCU) and utility gain at budget (UG@B). These complement traditional recall by explicitly modeling efficiency and trade-offs between true and false positives. Our results show that different allocation strategies optimize different metrics: even and inverse proportional allocation favor recall, while proportional and capped strategies better maximize RFCU. UG@B remains relatively stable across strategies, reflecting its balanced formulation. A correlation analysis reveals that RFCU and UG@B offer distinct perspectives from recall, with varying alignment across years. Together, these findings underscore the importance of aligning evaluation metrics and allocation strategies with screening goals. We release all data and code to support reproducibility and future research on cost-sensitive TAR.

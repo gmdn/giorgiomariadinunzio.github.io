@@ -1,0 +1,21 @@
+---
+title: "iDPP@CLEF 2023: The Intelligent Disease Progression Prediction Challenge"
+date: "2023"
+description-meta: "Amyotrophic Lateral Sclerosis (ALS) and Multiple Sclerosis (MS) are chronic diseases characterized by progressive or alternate impairment of neurological functions (motor, sensory, visual, cognitive). Patients have to manage alternated periods in hospital with care at home, experiencing a constant uncertainty regarding the timing of the disease acute phases and facing a considerable psychological and economic burden that also involves their caregivers. Clinicians, on the other hand, need tools able to support them in all the phases of the patient treatment, suggest personalized therapeutic decisions, indicate urgently needed interventions."
+categories: ["Conference Paper"]
+pub-authors: "Aidos, H., Bergamaschi, R., Cavalla, P., Chiò, A., Dagliati, A., Di Camillo, B., de Carvalho, M. A., Ferro, N., Fariselli, P., Dominguez, J. M. G., Madeira, S. C., & Tavazzi, E."
+pub-venue: "Advances in Information Retrieval"
+pub-details: "pp. 491-498"
+pub-doi: "10.1007/978-3-031-28241-6_57"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors">Aidos, H., Bergamaschi, R., Cavalla, P., Chiò, A., Dagliati, A., Di Camillo, B., de Carvalho, M. A., Ferro, N., Fariselli, P., Dominguez, J. M. G., Madeira, S. C., & Tavazzi, E.</p>
+
+<p class="nw-pub-venue"><em>Advances in Information Retrieval</em>, pp. 491-498</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [DOI](https://doi.org/10.1007/978-3-031-28241-6_57){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}
+
+## Abstract
+
+Amyotrophic Lateral Sclerosis (ALS) and Multiple Sclerosis (MS) are chronic diseases characterized by progressive or alternate impairment of neurological functions (motor, sensory, visual, cognitive). Patients have to manage alternated periods in hospital with care at home, experiencing a constant uncertainty regarding the timing of the disease acute phases and facing a considerable psychological and economic burden that also involves their caregivers. Clinicians, on the other hand, need tools able to support them in all the phases of the patient treatment, suggest personalized therapeutic decisions, indicate urgently needed interventions.

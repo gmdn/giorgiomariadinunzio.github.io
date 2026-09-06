@@ -1,0 +1,21 @@
+---
+title: "Intelligent Disease Progression Prediction: Overview of iDPP@CLEF 2024"
+date: "2024"
+description-meta: "Multiple Sclerosis (MS) and Amyotrophic Lateral Sclerosis (ALS) are two neurodegenerative diseases that cause progressive or alternating neurological impairments in motor, sensory, visual, and cognitive functions. Patients affected by these diseases undergo the physical, psychological, and economic burdens of hospital stays and home care while facing uncertainty. A possible aid to patients and clinicians might come from AI tools that can preemptively identify the need for intervention and suggest personalized therapies during the progression of these diseases."
+categories: ["Conference Paper"]
+pub-authors: "Birolo, G., Bosoni, P., Faggioli, G., Aidos, H., Bergamaschi, R., Cavalla, P., Chiò, A., Dagliati, A., de Carvalho, M., <strong>Di Nunzio, G. M.</strong>, Fariselli, P., Dominguez, J. M. G., Gromicho, M., Guazzo, A., Longato, E., Madeira, S. C., Manera, U., Marchesin, S., Menotti, L., Silvello, G., Tavazzi, E., Tavazzi, E., Trescato, I., Vettoretti, M., Di Camillo, B., & Ferro, N."
+pub-venue: "Experimental IR Meets Multilinguality, Multimodality, and Interaction"
+pub-details: "pp. 118-139"
+pub-doi: "10.1007/978-3-031-71908-0_6"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors">Birolo, G., Bosoni, P., Faggioli, G., Aidos, H., Bergamaschi, R., Cavalla, P., Chiò, A., Dagliati, A., de Carvalho, M., <strong>Di Nunzio, G. M.</strong>, Fariselli, P., Dominguez, J. M. G., Gromicho, M., Guazzo, A., Longato, E., Madeira, S. C., Manera, U., Marchesin, S., Menotti, L., Silvello, G., Tavazzi, E., Tavazzi, E., Trescato, I., Vettoretti, M., Di Camillo, B., & Ferro, N.</p>
+
+<p class="nw-pub-venue"><em>Experimental IR Meets Multilinguality, Multimodality, and Interaction</em>, pp. 118-139</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [DOI](https://doi.org/10.1007/978-3-031-71908-0_6){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}
+
+## Abstract
+
+Multiple Sclerosis (MS) and Amyotrophic Lateral Sclerosis (ALS) are two neurodegenerative diseases that cause progressive or alternating neurological impairments in motor, sensory, visual, and cognitive functions. Patients affected by these diseases undergo the physical, psychological, and economic burdens of hospital stays and home care while facing uncertainty. A possible aid to patients and clinicians might come from AI tools that can preemptively identify the need for intervention and suggest personalized therapies during the progression of these diseases.

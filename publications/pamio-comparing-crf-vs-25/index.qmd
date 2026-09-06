@@ -1,0 +1,16 @@
+---
+title: "Comparing CRF vs BERT Models for Named Entity Recognition and Relation Extraction"
+date: "2025-09-09"
+categories: ["Conference Paper"]
+pub-authors: "Pamio, L. & <strong>Di Nunzio, G. M.</strong>"
+pub-venue: "Working Notes of the Conference and Labs of the Evaluation Forum (CLEF 2025)"
+pub-details: "vol. 4038, pp. 473-482"
+pub-url: "https://ceur-ws.org/Vol-4038/#paper_33"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors">Pamio, L. & <strong>Di Nunzio, G. M.</strong></p>
+
+<p class="nw-pub-venue"><em>Working Notes of the Conference and Labs of the Evaluation Forum (CLEF 2025)</em>, vol. 4038, pp. 473-482</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [Source](https://ceur-ws.org/Vol-4038/#paper_33){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}

@@ -1,0 +1,21 @@
+---
+title: "The Onomastic Repertoire of the Roman d'Alexandre (ORNARE). Designing an Integrated Digital Onomastic Tool for Medieval French Romance"
+date: "2024-05"
+description-meta: "The paper reports on the first results of the design and implementation of a new digital tool for romance philology: the digital Onomastic Repertoire for the medieval French romance (12th-15th centuries). This tool, projected with a modular and integrable architecture, was implemented from a selection of romances, the corpus of the Medieval French Roman d'Alexandre. After introducing the peculiarities of the onomastic system in the Middle Ages (and, more generally, the peculiarities of medieval literary texts), the paper describes 1) the methodological challenges faced in the preparatory work, illustrates and comments on the first results achieved and 2) the design and implementation of the first integrated system for the interactive creation of the Onomastic Repertoire of the romaN d'AlexandRE (ORNARE), and 3) the current research output in terms of both a digital edition and the digital onomastic index of the corpus."
+categories: ["Conference Paper"]
+pub-authors: "Milazzo, M. & <strong>Di Nunzio, G. M.</strong>"
+pub-venue: "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)"
+pub-details: "pp. 15982–15987"
+pub-url: "https://aclanthology.org/2024.lrec-main.1389"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors">Milazzo, M. & <strong>Di Nunzio, G. M.</strong></p>
+
+<p class="nw-pub-venue"><em>Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)</em>, pp. 15982–15987</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [Source](https://aclanthology.org/2024.lrec-main.1389){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}
+
+## Abstract
+
+The paper reports on the first results of the design and implementation of a new digital tool for romance philology: the digital Onomastic Repertoire for the medieval French romance (12th-15th centuries). This tool, projected with a modular and integrable architecture, was implemented from a selection of romances, the corpus of the Medieval French Roman d'Alexandre. After introducing the peculiarities of the onomastic system in the Middle Ages (and, more generally, the peculiarities of medieval literary texts), the paper describes 1) the methodological challenges faced in the preparatory work, illustrates and comments on the first results achieved and 2) the design and implementation of the first integrated system for the interactive creation of the Onomastic Repertoire of the romaN d'AlexandRE (ORNARE), and 3) the current research output in terms of both a digital edition and the digital onomastic index of the corpus.

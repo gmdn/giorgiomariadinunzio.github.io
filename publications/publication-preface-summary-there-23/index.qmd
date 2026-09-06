@@ -1,0 +1,13 @@
+---
+title: "Preface Summary: There were 17 short papers accepted in this conference. All papers were peer-reviewed by at least two members of the scientific committee."
+date: "2023-06-29"
+categories: ["Conference Paper"]
+pub-venue: "Proceedings of the 2nd International Conference on Multilingual Digital Terminology Today (MDTT 2023)"
+pub-details: "vol. 3427"
+pub-url: "https://ceur-ws.org/Vol-3427/#preface"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-venue"><em>Proceedings of the 2nd International Conference on Multilingual Digital Terminology Today (MDTT 2023)</em>, vol. 3427</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [Source](https://ceur-ws.org/Vol-3427/#preface){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}

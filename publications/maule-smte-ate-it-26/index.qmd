@@ -1,0 +1,16 @@
+---
+title: "SMTE at ATE-IT: Ensemble Term Extraction with Italian BERT, spaCy, and Vocabulary-Based Filtering"
+date: "2026-02"
+categories: ["Conference Paper"]
+pub-authors: "Maule, S. & <strong>Di Nunzio, G. M.</strong>"
+pub-venue: "Proceedings of the 9th Evaluation Campaign of Natural Language Processing and Speech Tools for Italian. Final Workshop (EVALITA 2026)"
+pub-details: "vol. 4195"
+pub-url: "https://ceur-ws.org/Vol-4195/#10"
+pub-pdf: "paper.pdf"
+---
+
+<p class="nw-pub-authors">Maule, S. & <strong>Di Nunzio, G. M.</strong></p>
+
+<p class="nw-pub-venue"><em>Proceedings of the 9th Evaluation Campaign of Natural Language Processing and Speech Tools for Italian. Final Workshop (EVALITA 2026)</em>, vol. 4195</p>
+
+[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [Source](https://ceur-ws.org/Vol-4195/#10){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}
