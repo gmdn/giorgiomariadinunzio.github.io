@@ -57,13 +57,13 @@ website:
     tracking-id: "G-F6NXRP46YS"
     anonymous-ip: true
     storage: none
-  favicon: favicon.svg
+  # favicon: favicon.svg
   image: /assets/media/authors/me.webp
   open-graph: true
   twitter-card: true
 
   navbar:
-      logo: assets/media/logo_gmdn.svg
+      logo: assets/media/logos/gmdn.svg
       logo-alt: "Giorgio Maria Di Nunzio"
       title: "Giorgio Maria Di Nunzio"
       collapse-below: lg
@@ -163,12 +163,14 @@ format:
           }
           </script>
           <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
+          <!--
           <link rel="icon" href="/favicon.ico" sizes="32x32">
           <link rel="icon" type="image/svg+xml" href="/favicon.svg">
           <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
           <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
           <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#0076DF">
           <link rel="manifest" href="/site.webmanifest">
+          -->
           <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
           <meta name="theme-color" content="#0a0a0f" media="(prefers-color-scheme: dark)">
 

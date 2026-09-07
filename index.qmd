@@ -1,5 +1,5 @@
 ---
-pagetitle: "Homepage"
+pagetitle: "Giorgio Maria Di Nunzio – Academic Website"
 # Emits <meta name="description"> only; page-layout custom has no title block,
 # so nothing renders on the page itself.
 description: "Giorgio Maria Di Nunzio is an Associate Professor of Computer Engineering at the University of Padova working on information retrieval, technology-assisted review, text analytics, evaluation of information access and AI systems, computational terminology, Bayesian machine learning, and digital humanities."

@@ -1,8 +1,8 @@
 {
   "id": "/",
-  "name": "Noah Weidig",
-  "short_name": "Noah W",
-  "description": "Noah Weidig is an ecologist and GIS analyst specializing in geospatial data science, environmental modeling, and large-scale spatial analysis.",
+  "name": "Giorgio Maria Di Nunzio",
+  "short_name": "Giorgio Di Nunzio",
+  "description": "Academic website of Giorgio Maria Di Nunzio, Associate Professor of Computer Engineering at the University of Padova. Research in information retrieval, technology-assisted review, text analytics, computational terminology, Bayesian machine learning, and digital humanities.",
   "start_url": "/",
   "scope": "/",
   "icons": [
@@ -37,7 +37,7 @@
       "purpose": "maskable"
     }
   ],
-  "theme_color": "#0076DF",
-  "background_color": "#fcfcfb",
+  "theme_color": "#0a0a0f"
+  "background_color": "#0a0a0f",
   "display": "standalone"
 }
