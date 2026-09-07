@@ -8,14 +8,13 @@ pub-venue: "Information Processing & Management"
 pub-details: "vol. 50, no. 5, pp. 653-674"
 pub-doi: "10.1016/j.ipm.2014.04.008"
 pub-url: "https://www.sciencedirect.com/science/article/pii/S0306457314000363"
-pub-pdf: "paper.pdf"
 ---
 
 <p class="nw-pub-authors"><strong>Di Nunzio, G. M.</strong></p>
 
 <p class="nw-pub-venue"><em>Information Processing & Management</em>, vol. 50, no. 5, pp. 653-674</p>
 
-[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [DOI](https://doi.org/10.1016/j.ipm.2014.04.008){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}
+[DOI](https://doi.org/10.1016/j.ipm.2014.04.008){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}
 
 ## Abstract
 

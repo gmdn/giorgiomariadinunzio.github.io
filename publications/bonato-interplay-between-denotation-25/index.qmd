@@ -8,14 +8,13 @@ pub-venue: "Cahiers de lexicologie 2024 – 2, n° 125. La connotation et la dé
 pub-details: "pp. 19-45"
 pub-doi: "10.48611/isbn.978-2-406-17959-7.p.0019"
 pub-url: "https://classiques-garnier.com/cahiers-de-lexicologie-2024-2-n-125-la-connotation-et-la-denotation-en-terminologie-the-interplay-between-denotation-and-connotation-applying-semic-analysis-to-medical-terminology.html"
-pub-pdf: "paper.pdf"
 ---
 
 <p class="nw-pub-authors">Bonato, V., <strong>Di Nunzio, G. M.</strong>, & Vezzani, F.</p>
 
 <p class="nw-pub-venue"><em>Cahiers de lexicologie 2024 – 2, n° 125. La connotation et la dénotation en terminologie</em>, pp. 19-45</p>
 
-[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [DOI](https://doi.org/10.48611/isbn.978-2-406-17959-7.p.0019){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}
+[DOI](https://doi.org/10.48611/isbn.978-2-406-17959-7.p.0019){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}
 
 ## Abstract
 

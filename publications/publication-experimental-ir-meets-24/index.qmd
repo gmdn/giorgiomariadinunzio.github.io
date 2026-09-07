@@ -6,9 +6,8 @@ pub-venue: "Springer Nature Switzerland"
 pub-details: "vol. 14958"
 pub-doi: "10.1007/978-3-031-71736-9"
 pub-url: "https://link.springer.com/10.1007/978-3-031-71736-9"
-pub-pdf: "paper.pdf"
 ---
 
 <p class="nw-pub-venue"><em>Springer Nature Switzerland</em>, vol. 14958</p>
 
-[PDF](paper.pdf){.nw-btn .nw-btn-primary target="_blank"} [DOI](https://doi.org/10.1007/978-3-031-71736-9){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}
+[DOI](https://doi.org/10.1007/978-3-031-71736-9){.nw-btn target="_blank"} [BibTeX](cite.bib){.nw-btn target="_blank"}
