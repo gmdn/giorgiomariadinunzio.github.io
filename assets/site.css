@@ -1,5 +1,13 @@
 /* Minor fixes that don't belong in the SCSS theme layers */
 
+@font-face {
+  font-family: "Inter";
+  src: url("fonts/inter-latin.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+}
+
 /* Guarded at the point of declaration rather than overridden later: Quarto
    emits the compiled theme bundle before `css:` files, so an unconditional
    rule here would out-cascade the `prefers-reduced-motion` block in

@@ -55,10 +55,8 @@ website:
   # longer identified across sessions — page/referrer stats are unaffected.
   google-analytics:
     tracking-id: "G-F6NXRP46YS"
-    anonymous-ip: true
-    storage: none
   favicon: favicon.svg
-  image: /assets/media/authors/me.webp
+  image: assets/media/authors/me.webp
   open-graph: true
   twitter-card: true
 
@@ -99,8 +97,8 @@ format:
     lightbox: auto
     include-after-body:
       - text: |
-          <script src="/assets/nw-nav.js"></script>
-          <script src="/assets/social-share.js"></script>
+          <script src="assets/nw-nav.js"></script>
+          <script src="assets/social-share.js"></script>
     toc: false
     anchor-sections: false
     # No page on the site uses LaTeX math, but Quarto still ships MathJax
@@ -162,7 +160,6 @@ format:
             ]
           }
           </script>
-          <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
           <!--
           <link rel="icon" href="/favicon.ico" sizes="32x32">
           <link rel="icon" type="image/svg+xml" href="/favicon.svg">
