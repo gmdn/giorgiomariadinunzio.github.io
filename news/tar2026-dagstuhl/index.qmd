@@ -1,0 +1,18 @@
+---
+title: "Frontiers of Technology-Assisted Review Systems at Dagstuhl"
+date: "2026-09-11"
+description-meta: "The Dagstuhl Seminar on Frontiers of Technology-Assisted Review Systems brings together researchers and practitioners from information retrieval, eDiscovery, systematic reviews, and machine learning."
+categories:
+  - Technology-Assisted Review
+  - Information Retrieval
+  - Events
+linkedin: "https://www.linkedin.com/posts/giorgio-maria-di-nunzio_technologyassistedreview-tar-ediscovery-activity-7504143978905174016-tFTc"
+---
+
+In September 2026, from Moday 13th to Wednesday 16th, Schloss Dagstuhl will host the seminar **“Frontiers of Technology-Assisted Review Systems”**, bringing together researchers and practitioners working on Technology-Assisted Review (TAR) across different application domains and research communities.
+
+The seminar aims to foster discussion around the current state and future directions of TAR, including high-recall information retrieval, machine learning, eDiscovery, systematic reviews, and related evidence-discovery workflows.
+
+I am very happy to have helped make this event happen together with my co-organizers **Evangelos Kanoulas, Udo Kruschwitz, and Jeremy Pickens**, and particularly pleased that we were able to bring together so many colleagues and friends who have contributed to shaping this research area over the years.
+
+[Read the original post on LinkedIn →](https://www.linkedin.com/posts/giorgio-maria-di-nunzio_technologyassistedreview-tar-ediscovery-activity-7504143978905174016-tFTc)
