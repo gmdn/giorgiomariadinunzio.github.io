@@ -9,7 +9,7 @@ categories:
 linkedin: "https://www.linkedin.com/posts/giorgio-maria-di-nunzio_technologyassistedreview-tar-ediscovery-activity-7504143978905174016-tFTc"
 ---
 
-In September 2026, from Moday 13th to Wednesday 16th, Schloss Dagstuhl will host the seminar **“Frontiers of Technology-Assisted Review Systems”**, bringing together researchers and practitioners working on Technology-Assisted Review (TAR) across different application domains and research communities.
+In September 2026, from Monday 14th to Wednesday 16th, Schloss Dagstuhl will host the seminar **“Frontiers of Technology-Assisted Review Systems”**, bringing together researchers and practitioners working on Technology-Assisted Review (TAR) across different application domains and research communities.
 
 The seminar aims to foster discussion around the current state and future directions of TAR, including high-recall information retrieval, machine learning, eDiscovery, systematic reviews, and related evidence-discovery workflows.
 
